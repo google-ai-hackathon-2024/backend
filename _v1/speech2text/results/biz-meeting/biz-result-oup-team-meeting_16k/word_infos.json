@@ -1,0 +1,3104 @@
+[
+    {
+        "word": "anyway",
+        "speaker_tag": 2,
+        "start_time": 0.4,
+        "end_time": 1.1
+    },
+    {
+        "word": "shall",
+        "speaker_tag": 2,
+        "start_time": 1.1,
+        "end_time": 1.6
+    },
+    {
+        "word": "we",
+        "speaker_tag": 2,
+        "start_time": 1.6,
+        "end_time": 1.8
+    },
+    {
+        "word": "start",
+        "speaker_tag": 2,
+        "start_time": 1.8,
+        "end_time": 2.3
+    },
+    {
+        "word": "with",
+        "speaker_tag": 2,
+        "start_time": 2.3,
+        "end_time": 2.4
+    },
+    {
+        "word": "an",
+        "speaker_tag": 2,
+        "start_time": 2.4,
+        "end_time": 2.6
+    },
+    {
+        "word": "update",
+        "speaker_tag": 2,
+        "start_time": 2.6,
+        "end_time": 3.0
+    },
+    {
+        "word": "from",
+        "speaker_tag": 2,
+        "start_time": 3.0,
+        "end_time": 3.2
+    },
+    {
+        "word": "everyone",
+        "speaker_tag": 2,
+        "start_time": 3.2,
+        "end_time": 3.7
+    },
+    {
+        "word": "can",
+        "speaker_tag": 2,
+        "start_time": 5.5,
+        "end_time": 5.9
+    },
+    {
+        "word": "we",
+        "speaker_tag": 2,
+        "start_time": 5.9,
+        "end_time": 6.1
+    },
+    {
+        "word": "try",
+        "speaker_tag": 2,
+        "start_time": 6.1,
+        "end_time": 6.4
+    },
+    {
+        "word": "and",
+        "speaker_tag": 2,
+        "start_time": 6.4,
+        "end_time": 6.6
+    },
+    {
+        "word": "keep",
+        "speaker_tag": 2,
+        "start_time": 6.6,
+        "end_time": 6.8
+    },
+    {
+        "word": "this",
+        "speaker_tag": 2,
+        "start_time": 6.8,
+        "end_time": 6.9
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 6.9,
+        "end_time": 7.2
+    },
+    {
+        "word": "20",
+        "speaker_tag": 2,
+        "start_time": 7.2,
+        "end_time": 7.7
+    },
+    {
+        "word": "minutes",
+        "speaker_tag": 2,
+        "start_time": 7.7,
+        "end_time": 8.2
+    },
+    {
+        "word": "though",
+        "speaker_tag": 2,
+        "start_time": 8.2,
+        "end_time": 8.8
+    },
+    {
+        "word": "so",
+        "speaker_tag": 2,
+        "start_time": 8.8,
+        "end_time": 9.3
+    },
+    {
+        "word": "we",
+        "speaker_tag": 2,
+        "start_time": 9.3,
+        "end_time": 9.8
+    },
+    {
+        "word": "have",
+        "speaker_tag": 2,
+        "start_time": 9.8,
+        "end_time": 9.9
+    },
+    {
+        "word": "time",
+        "speaker_tag": 2,
+        "start_time": 9.9,
+        "end_time": 10.1
+    },
+    {
+        "word": "for",
+        "speaker_tag": 2,
+        "start_time": 10.1,
+        "end_time": 10.3
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 10.3,
+        "end_time": 10.4
+    },
+    {
+        "word": "main",
+        "speaker_tag": 2,
+        "start_time": 10.4,
+        "end_time": 10.7
+    },
+    {
+        "word": "item",
+        "speaker_tag": 2,
+        "start_time": 10.7,
+        "end_time": 11.0
+    },
+    {
+        "word": "afterwards",
+        "speaker_tag": 2,
+        "start_time": 11.0,
+        "end_time": 11.7
+    },
+    {
+        "word": "so",
+        "speaker_tag": 2,
+        "start_time": 11.7,
+        "end_time": 14.0
+    },
+    {
+        "word": "how",
+        "speaker_tag": 2,
+        "start_time": 14.0,
+        "end_time": 14.7
+    },
+    {
+        "word": "are",
+        "speaker_tag": 2,
+        "start_time": 14.7,
+        "end_time": 14.8
+    },
+    {
+        "word": "things",
+        "speaker_tag": 2,
+        "start_time": 14.8,
+        "end_time": 14.9
+    },
+    {
+        "word": "going",
+        "speaker_tag": 2,
+        "start_time": 14.9,
+        "end_time": 15.3
+    },
+    {
+        "word": "Maria",
+        "speaker_tag": 2,
+        "start_time": 15.3,
+        "end_time": 16.9
+    },
+    {
+        "word": "what's",
+        "speaker_tag": 2,
+        "start_time": 16.9,
+        "end_time": 17.9
+    },
+    {
+        "word": "happening",
+        "speaker_tag": 2,
+        "start_time": 17.9,
+        "end_time": 18.2
+    },
+    {
+        "word": "in",
+        "speaker_tag": 2,
+        "start_time": 18.2,
+        "end_time": 18.4
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 18.4,
+        "end_time": 18.4
+    },
+    {
+        "word": "training",
+        "speaker_tag": 2,
+        "start_time": 18.4,
+        "end_time": 18.8
+    },
+    {
+        "word": "department",
+        "speaker_tag": 2,
+        "start_time": 18.8,
+        "end_time": 18.9
+    },
+    {
+        "word": "this",
+        "speaker_tag": 2,
+        "start_time": 18.9,
+        "end_time": 19.4
+    },
+    {
+        "word": "week",
+        "speaker_tag": 2,
+        "start_time": 19.4,
+        "end_time": 19.6
+    },
+    {
+        "word": "so",
+        "speaker_tag": 2,
+        "start_time": 19.6,
+        "end_time": 21.0
+    },
+    {
+        "word": "far",
+        "speaker_tag": 1,
+        "start_time": 21.0,
+        "end_time": 21.2
+    },
+    {
+        "word": "so",
+        "speaker_tag": 1,
+        "start_time": 21.2,
+        "end_time": 21.4
+    },
+    {
+        "word": "good",
+        "speaker_tag": 1,
+        "start_time": 21.4,
+        "end_time": 21.5
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 21.5,
+        "end_time": 22.1
+    },
+    {
+        "word": "have",
+        "speaker_tag": 1,
+        "start_time": 22.1,
+        "end_time": 22.5
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 22.5,
+        "end_time": 22.9
+    },
+    {
+        "word": "external",
+        "speaker_tag": 1,
+        "start_time": 22.9,
+        "end_time": 23.5
+    },
+    {
+        "word": "trainers",
+        "speaker_tag": 1,
+        "start_time": 23.5,
+        "end_time": 23.9
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 23.9,
+        "end_time": 24.0
+    },
+    {
+        "word": "this",
+        "speaker_tag": 1,
+        "start_time": 24.0,
+        "end_time": 24.2
+    },
+    {
+        "word": "week",
+        "speaker_tag": 1,
+        "start_time": 24.2,
+        "end_time": 24.6
+    },
+    {
+        "word": "one",
+        "speaker_tag": 1,
+        "start_time": 24.6,
+        "end_time": 25.2
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 25.2,
+        "end_time": 25.3
+    },
+    {
+        "word": "them",
+        "speaker_tag": 1,
+        "start_time": 25.3,
+        "end_time": 25.5
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 25.5,
+        "end_time": 25.7
+    },
+    {
+        "word": "working",
+        "speaker_tag": 1,
+        "start_time": 25.7,
+        "end_time": 26.0
+    },
+    {
+        "word": "with",
+        "speaker_tag": 1,
+        "start_time": 26.0,
+        "end_time": 26.3
+    },
+    {
+        "word": "quotes",
+        "speaker_tag": 1,
+        "start_time": 26.3,
+        "end_time": 26.6
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 26.6,
+        "end_time": 26.7
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 26.7,
+        "end_time": 26.9
+    },
+    {
+        "word": "stop",
+        "speaker_tag": 1,
+        "start_time": 26.9,
+        "end_time": 27.2
+    },
+    {
+        "word": "at",
+        "speaker_tag": 1,
+        "start_time": 27.2,
+        "end_time": 27.3
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 27.3,
+        "end_time": 27.3
+    },
+    {
+        "word": "other",
+        "speaker_tag": 1,
+        "start_time": 27.3,
+        "end_time": 27.5
+    },
+    {
+        "word": "side",
+        "speaker_tag": 1,
+        "start_time": 27.5,
+        "end_time": 27.9
+    },
+    {
+        "word": "so",
+        "speaker_tag": 1,
+        "start_time": 27.9,
+        "end_time": 28.9
+    },
+    {
+        "word": "I",
+        "speaker_tag": 1,
+        "start_time": 28.9,
+        "end_time": 29.2
+    },
+    {
+        "word": "hope",
+        "speaker_tag": 1,
+        "start_time": 29.2,
+        "end_time": 29.4
+    },
+    {
+        "word": "they",
+        "speaker_tag": 1,
+        "start_time": 29.4,
+        "end_time": 29.6
+    },
+    {
+        "word": "will",
+        "speaker_tag": 1,
+        "start_time": 29.6,
+        "end_time": 29.7
+    },
+    {
+        "word": "turn",
+        "speaker_tag": 1,
+        "start_time": 29.7,
+        "end_time": 29.9
+    },
+    {
+        "word": "up",
+        "speaker_tag": 1,
+        "start_time": 29.9,
+        "end_time": 30.1
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 30.1,
+        "end_time": 33.9
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 33.9,
+        "end_time": 34.0
+    },
+    {
+        "word": "last",
+        "speaker_tag": 1,
+        "start_time": 34.0,
+        "end_time": 34.2
+    },
+    {
+        "word": "training",
+        "speaker_tag": 1,
+        "start_time": 34.2,
+        "end_time": 34.7
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 34.7,
+        "end_time": 34.8
+    },
+    {
+        "word": "had",
+        "speaker_tag": 1,
+        "start_time": 34.8,
+        "end_time": 34.8
+    },
+    {
+        "word": "at",
+        "speaker_tag": 1,
+        "start_time": 34.8,
+        "end_time": 35.0
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 35.0,
+        "end_time": 35.1
+    },
+    {
+        "word": "Kohl",
+        "speaker_tag": 1,
+        "start_time": 35.1,
+        "end_time": 35.3
+    },
+    {
+        "word": "Center",
+        "speaker_tag": 1,
+        "start_time": 35.3,
+        "end_time": 35.5
+    },
+    {
+        "word": "I'm",
+        "speaker_tag": 1,
+        "start_time": 35.5,
+        "end_time": 37.0
+    },
+    {
+        "word": "surprised",
+        "speaker_tag": 1,
+        "start_time": 37.0,
+        "end_time": 37.4
+    },
+    {
+        "word": "ready",
+        "speaker_tag": 1,
+        "start_time": 37.4,
+        "end_time": 37.8
+    },
+    {
+        "word": "it's",
+        "speaker_tag": 1,
+        "start_time": 37.8,
+        "end_time": 38.3
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 38.3,
+        "end_time": 38.4
+    },
+    {
+        "word": "page",
+        "speaker_tag": 1,
+        "start_time": 38.4,
+        "end_time": 38.6
+    },
+    {
+        "word": "how",
+        "speaker_tag": 1,
+        "start_time": 38.6,
+        "end_time": 38.8
+    },
+    {
+        "word": "many",
+        "speaker_tag": 1,
+        "start_time": 38.8,
+        "end_time": 39.1
+    },
+    {
+        "word": "you",
+        "speaker_tag": 1,
+        "start_time": 39.1,
+        "end_time": 39.5
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 39.5,
+        "end_time": 39.5
+    },
+    {
+        "word": "people",
+        "speaker_tag": 1,
+        "start_time": 39.5,
+        "end_time": 39.9
+    },
+    {
+        "word": "would",
+        "speaker_tag": 1,
+        "start_time": 39.9,
+        "end_time": 40.0
+    },
+    {
+        "word": "enjoy",
+        "speaker_tag": 1,
+        "start_time": 40.0,
+        "end_time": 40.2
+    },
+    {
+        "word": "having",
+        "speaker_tag": 1,
+        "start_time": 40.2,
+        "end_time": 40.5
+    },
+    {
+        "word": "some",
+        "speaker_tag": 1,
+        "start_time": 40.5,
+        "end_time": 40.8
+    },
+    {
+        "word": "training",
+        "speaker_tag": 1,
+        "start_time": 40.8,
+        "end_time": 41.3
+    },
+    {
+        "word": "but",
+        "speaker_tag": 2,
+        "start_time": 42.0,
+        "end_time": 42.4
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 42.4,
+        "end_time": 42.6
+    },
+    {
+        "word": "have",
+        "speaker_tag": 2,
+        "start_time": 42.6,
+        "end_time": 42.8
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 42.8,
+        "end_time": 43.0
+    },
+    {
+        "word": "go",
+        "speaker_tag": 2,
+        "start_time": 43.0,
+        "end_time": 43.2
+    },
+    {
+        "word": "it's",
+        "speaker_tag": 2,
+        "start_time": 43.2,
+        "end_time": 44.3
+    },
+    {
+        "word": "not",
+        "speaker_tag": 2,
+        "start_time": 44.3,
+        "end_time": 44.6
+    },
+    {
+        "word": "really",
+        "speaker_tag": 2,
+        "start_time": 44.6,
+        "end_time": 45.2
+    },
+    {
+        "word": "that",
+        "speaker_tag": 2,
+        "start_time": 45.2,
+        "end_time": 45.3
+    },
+    {
+        "word": "decision",
+        "speaker_tag": 2,
+        "start_time": 45.3,
+        "end_time": 46.0
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 46.0,
+        "end_time": 46.2
+    },
+    {
+        "word": "go",
+        "speaker_tag": 2,
+        "start_time": 46.2,
+        "end_time": 46.4
+    },
+    {
+        "word": "on",
+        "speaker_tag": 2,
+        "start_time": 46.4,
+        "end_time": 46.6
+    },
+    {
+        "word": "us",
+        "speaker_tag": 2,
+        "start_time": 46.6,
+        "end_time": 46.9
+    },
+    {
+        "word": "did",
+        "speaker_tag": 2,
+        "start_time": 47.9,
+        "end_time": 48.7
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 48.7,
+        "end_time": 48.8
+    },
+    {
+        "word": "speak",
+        "speaker_tag": 2,
+        "start_time": 48.8,
+        "end_time": 49.0
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 49.0,
+        "end_time": 49.0
+    },
+    {
+        "word": "customer",
+        "speaker_tag": 2,
+        "start_time": 49.0,
+        "end_time": 49.4
+    },
+    {
+        "word": "services",
+        "speaker_tag": 2,
+        "start_time": 49.4,
+        "end_time": 49.9
+    },
+    {
+        "word": "know",
+        "speaker_tag": 2,
+        "start_time": 49.9,
+        "end_time": 51.1
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 51.1,
+        "end_time": 51.1
+    },
+    {
+        "word": "was",
+        "speaker_tag": 2,
+        "start_time": 51.1,
+        "end_time": 51.3
+    },
+    {
+        "word": "going",
+        "speaker_tag": 1,
+        "start_time": 51.3,
+        "end_time": 51.5
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 51.5,
+        "end_time": 51.6
+    },
+    {
+        "word": "do",
+        "speaker_tag": 1,
+        "start_time": 51.6,
+        "end_time": 51.8
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 51.8,
+        "end_time": 51.8
+    },
+    {
+        "word": "today",
+        "speaker_tag": 1,
+        "start_time": 51.8,
+        "end_time": 52.1
+    },
+    {
+        "word": "should",
+        "speaker_tag": 1,
+        "start_time": 52.1,
+        "end_time": 53.3
+    },
+    {
+        "word": "I",
+        "speaker_tag": 1,
+        "start_time": 53.3,
+        "end_time": 53.4
+    },
+    {
+        "word": "speak",
+        "speaker_tag": 1,
+        "start_time": 53.4,
+        "end_time": 53.5
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 53.5,
+        "end_time": 53.7
+    },
+    {
+        "word": "Anna",
+        "speaker_tag": 1,
+        "start_time": 53.7,
+        "end_time": 53.9
+    },
+    {
+        "word": "yes",
+        "speaker_tag": 2,
+        "start_time": 53.9,
+        "end_time": 55.4
+    },
+    {
+        "word": "I'm",
+        "speaker_tag": 2,
+        "start_time": 55.4,
+        "end_time": 57.7
+    },
+    {
+        "word": "meeting",
+        "speaker_tag": 2,
+        "start_time": 57.7,
+        "end_time": 57.9
+    },
+    {
+        "word": "on",
+        "speaker_tag": 2,
+        "start_time": 57.9,
+        "end_time": 58.7
+    },
+    {
+        "word": "it",
+        "speaker_tag": 2,
+        "start_time": 58.7,
+        "end_time": 58.9
+    },
+    {
+        "word": "today",
+        "speaker_tag": 2,
+        "start_time": 58.9,
+        "end_time": 59.2
+    },
+    {
+        "word": "so",
+        "speaker_tag": 2,
+        "start_time": 59.2,
+        "end_time": 60.1
+    },
+    {
+        "word": "I'll",
+        "speaker_tag": 2,
+        "start_time": 60.1,
+        "end_time": 60.5
+    },
+    {
+        "word": "mention",
+        "speaker_tag": 2,
+        "start_time": 60.5,
+        "end_time": 60.8
+    },
+    {
+        "word": "it",
+        "speaker_tag": 2,
+        "start_time": 60.8,
+        "end_time": 61.1
+    },
+    {
+        "word": "can",
+        "speaker_tag": 1,
+        "start_time": 61.1,
+        "end_time": 62.0
+    },
+    {
+        "word": "you",
+        "speaker_tag": 1,
+        "start_time": 62.0,
+        "end_time": 62.2
+    },
+    {
+        "word": "let",
+        "speaker_tag": 1,
+        "start_time": 62.2,
+        "end_time": 62.3
+    },
+    {
+        "word": "me",
+        "speaker_tag": 1,
+        "start_time": 62.3,
+        "end_time": 62.4
+    },
+    {
+        "word": "know",
+        "speaker_tag": 1,
+        "start_time": 62.4,
+        "end_time": 62.4
+    },
+    {
+        "word": "how",
+        "speaker_tag": 1,
+        "start_time": 62.4,
+        "end_time": 62.6
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 62.6,
+        "end_time": 62.8
+    },
+    {
+        "word": "goes",
+        "speaker_tag": 1,
+        "start_time": 62.8,
+        "end_time": 62.9
+    },
+    {
+        "word": "just",
+        "speaker_tag": 1,
+        "start_time": 62.9,
+        "end_time": 63.9
+    },
+    {
+        "word": "so",
+        "speaker_tag": 1,
+        "start_time": 63.9,
+        "end_time": 64.0
+    },
+    {
+        "word": "I",
+        "speaker_tag": 1,
+        "start_time": 64.0,
+        "end_time": 64.1
+    },
+    {
+        "word": "know",
+        "speaker_tag": 1,
+        "start_time": 64.1,
+        "end_time": 64.2
+    },
+    {
+        "word": "what",
+        "speaker_tag": 1,
+        "start_time": 64.2,
+        "end_time": 64.4
+    },
+    {
+        "word": "I",
+        "speaker_tag": 1,
+        "start_time": 64.4,
+        "end_time": 64.5
+    },
+    {
+        "word": "can",
+        "speaker_tag": 1,
+        "start_time": 64.5,
+        "end_time": 64.6
+    },
+    {
+        "word": "do",
+        "speaker_tag": 1,
+        "start_time": 64.6,
+        "end_time": 64.8
+    },
+    {
+        "word": "next",
+        "speaker_tag": 1,
+        "start_time": 64.8,
+        "end_time": 64.8
+    },
+    {
+        "word": "yes",
+        "speaker_tag": 2,
+        "start_time": 64.8,
+        "end_time": 66.3
+    },
+    {
+        "word": "and",
+        "speaker_tag": 2,
+        "start_time": 68.3,
+        "end_time": 69.3
+    },
+    {
+        "word": "what",
+        "speaker_tag": 2,
+        "start_time": 69.3,
+        "end_time": 70.9
+    },
+    {
+        "word": "about",
+        "speaker_tag": 2,
+        "start_time": 70.9,
+        "end_time": 71.2
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 71.2,
+        "end_time": 71.5
+    },
+    {
+        "word": "intranet",
+        "speaker_tag": 2,
+        "start_time": 71.5,
+        "end_time": 71.9
+    },
+    {
+        "word": "training",
+        "speaker_tag": 2,
+        "start_time": 71.9,
+        "end_time": 72.6
+    },
+    {
+        "word": "how",
+        "speaker_tag": 2,
+        "start_time": 72.6,
+        "end_time": 73.2
+    },
+    {
+        "word": "are",
+        "speaker_tag": 2,
+        "start_time": 73.2,
+        "end_time": 73.3
+    },
+    {
+        "word": "things",
+        "speaker_tag": 2,
+        "start_time": 73.3,
+        "end_time": 73.5
+    },
+    {
+        "word": "going",
+        "speaker_tag": 2,
+        "start_time": 73.5,
+        "end_time": 73.7
+    },
+    {
+        "word": "with",
+        "speaker_tag": 2,
+        "start_time": 73.7,
+        "end_time": 73.8
+    },
+    {
+        "word": "that",
+        "speaker_tag": 2,
+        "start_time": 73.8,
+        "end_time": 74.0
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 74.0,
+        "end_time": 75.1
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 75.1,
+        "end_time": 75.2
+    },
+    {
+        "word": "waiting",
+        "speaker_tag": 1,
+        "start_time": 75.2,
+        "end_time": 75.5
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 75.5,
+        "end_time": 75.7
+    },
+    {
+        "word": "it",
+        "speaker_tag": 1,
+        "start_time": 75.7,
+        "end_time": 76.2
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 76.2,
+        "end_time": 76.4
+    },
+    {
+        "word": "say",
+        "speaker_tag": 1,
+        "start_time": 76.4,
+        "end_time": 76.6
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 76.6,
+        "end_time": 76.8
+    },
+    {
+        "word": "ready",
+        "speaker_tag": 1,
+        "start_time": 76.8,
+        "end_time": 77.1
+    },
+    {
+        "word": "I",
+        "speaker_tag": 1,
+        "start_time": 77.1,
+        "end_time": 77.6
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 77.6,
+        "end_time": 77.7
+    },
+    {
+        "word": "there",
+        "speaker_tag": 1,
+        "start_time": 77.7,
+        "end_time": 78.0
+    },
+    {
+        "word": "have",
+        "speaker_tag": 1,
+        "start_time": 78.0,
+        "end_time": 78.1
+    },
+    {
+        "word": "been",
+        "speaker_tag": 1,
+        "start_time": 78.1,
+        "end_time": 78.2
+    },
+    {
+        "word": "some",
+        "speaker_tag": 1,
+        "start_time": 78.2,
+        "end_time": 78.4
+    },
+    {
+        "word": "delays",
+        "speaker_tag": 1,
+        "start_time": 78.4,
+        "end_time": 78.9
+    },
+    {
+        "word": "but",
+        "speaker_tag": 1,
+        "start_time": 78.9,
+        "end_time": 79.1
+    },
+    {
+        "word": "now",
+        "speaker_tag": 1,
+        "start_time": 79.1,
+        "end_time": 79.6
+    },
+    {
+        "word": "they're",
+        "speaker_tag": 1,
+        "start_time": 79.6,
+        "end_time": 79.9
+    },
+    {
+        "word": "telling",
+        "speaker_tag": 1,
+        "start_time": 79.9,
+        "end_time": 80.1
+    },
+    {
+        "word": "me",
+        "speaker_tag": 1,
+        "start_time": 80.1,
+        "end_time": 80.3
+    },
+    {
+        "word": "it'll",
+        "speaker_tag": 1,
+        "start_time": 80.3,
+        "end_time": 80.5
+    },
+    {
+        "word": "be",
+        "speaker_tag": 1,
+        "start_time": 80.5,
+        "end_time": 80.6
+    },
+    {
+        "word": "ready",
+        "speaker_tag": 1,
+        "start_time": 80.6,
+        "end_time": 80.7
+    },
+    {
+        "word": "next",
+        "speaker_tag": 1,
+        "start_time": 80.7,
+        "end_time": 81.0
+    },
+    {
+        "word": "month",
+        "speaker_tag": 1,
+        "start_time": 81.0,
+        "end_time": 81.2
+    },
+    {
+        "word": "I",
+        "speaker_tag": 1,
+        "start_time": 81.2,
+        "end_time": 82.4
+    },
+    {
+        "word": "have",
+        "speaker_tag": 1,
+        "start_time": 82.4,
+        "end_time": 82.7
+    },
+    {
+        "word": "an",
+        "speaker_tag": 1,
+        "start_time": 82.7,
+        "end_time": 82.8
+    },
+    {
+        "word": "update",
+        "speaker_tag": 1,
+        "start_time": 82.8,
+        "end_time": 83.0
+    },
+    {
+        "word": "meeting",
+        "speaker_tag": 1,
+        "start_time": 83.0,
+        "end_time": 83.4
+    },
+    {
+        "word": "this",
+        "speaker_tag": 1,
+        "start_time": 83.4,
+        "end_time": 83.6
+    },
+    {
+        "word": "week",
+        "speaker_tag": 1,
+        "start_time": 83.6,
+        "end_time": 83.9
+    },
+    {
+        "word": "with",
+        "speaker_tag": 1,
+        "start_time": 83.9,
+        "end_time": 84.0
+    },
+    {
+        "word": "Matt",
+        "speaker_tag": 1,
+        "start_time": 84.0,
+        "end_time": 84.2
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 84.2,
+        "end_time": 84.3
+    },
+    {
+        "word": "Lucy",
+        "speaker_tag": 2,
+        "start_time": 84.3,
+        "end_time": 84.7
+    },
+    {
+        "word": "behind",
+        "speaker_tag": 2,
+        "start_time": 84.7,
+        "end_time": 86.3
+    },
+    {
+        "word": "on",
+        "speaker_tag": 2,
+        "start_time": 86.3,
+        "end_time": 86.4
+    },
+    {
+        "word": "that's",
+        "speaker_tag": 2,
+        "start_time": 86.4,
+        "end_time": 86.7
+    },
+    {
+        "word": "only",
+        "speaker_tag": 2,
+        "start_time": 86.7,
+        "end_time": 87.0
+    },
+    {
+        "word": "so",
+        "speaker_tag": 2,
+        "start_time": 88.6,
+        "end_time": 89.2
+    },
+    {
+        "word": "is",
+        "speaker_tag": 2,
+        "start_time": 89.2,
+        "end_time": 89.4
+    },
+    {
+        "word": "that",
+        "speaker_tag": 2,
+        "start_time": 89.4,
+        "end_time": 89.5
+    },
+    {
+        "word": "everything",
+        "speaker_tag": 2,
+        "start_time": 89.5,
+        "end_time": 90.4
+    },
+    {
+        "word": "for",
+        "speaker_tag": 2,
+        "start_time": 90.4,
+        "end_time": 90.7
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 90.7,
+        "end_time": 90.8
+    },
+    {
+        "word": "training",
+        "speaker_tag": 2,
+        "start_time": 90.8,
+        "end_time": 91.1
+    },
+    {
+        "word": "departments",
+        "speaker_tag": 2,
+        "start_time": 91.1,
+        "end_time": 91.7
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 91.7,
+        "end_time": 93.0
+    },
+    {
+        "word": "am",
+        "speaker_tag": 2,
+        "start_time": 93.0,
+        "end_time": 93.2
+    },
+    {
+        "word": "preparing",
+        "speaker_tag": 2,
+        "start_time": 93.2,
+        "end_time": 93.6
+    },
+    {
+        "word": "something",
+        "speaker_tag": 2,
+        "start_time": 93.6,
+        "end_time": 94.0
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 94.0,
+        "end_time": 94.1
+    },
+    {
+        "word": "David",
+        "speaker_tag": 1,
+        "start_time": 94.1,
+        "end_time": 94.7
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 94.7,
+        "end_time": 94.8
+    },
+    {
+        "word": "marketing",
+        "speaker_tag": 1,
+        "start_time": 94.8,
+        "end_time": 95.3
+    },
+    {
+        "word": "on",
+        "speaker_tag": 1,
+        "start_time": 95.3,
+        "end_time": 95.7
+    },
+    {
+        "word": "my",
+        "speaker_tag": 1,
+        "start_time": 95.7,
+        "end_time": 96.0
+    },
+    {
+        "word": "idea",
+        "speaker_tag": 1,
+        "start_time": 96.0,
+        "end_time": 96.4
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 96.4,
+        "end_time": 96.5
+    },
+    {
+        "word": "school",
+        "speaker_tag": 1,
+        "start_time": 96.5,
+        "end_time": 96.9
+    },
+    {
+        "word": "Tuesday",
+        "speaker_tag": 1,
+        "start_time": 96.9,
+        "end_time": 97.1
+    },
+    {
+        "word": "event",
+        "speaker_tag": 1,
+        "start_time": 97.1,
+        "end_time": 100.9
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 100.9,
+        "end_time": 101.1
+    },
+    {
+        "word": "schools",
+        "speaker_tag": 1,
+        "start_time": 101.1,
+        "end_time": 101.6
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 101.6,
+        "end_time": 101.9
+    },
+    {
+        "word": "inform",
+        "speaker_tag": 1,
+        "start_time": 101.9,
+        "end_time": 102.4
+    },
+    {
+        "word": "students",
+        "speaker_tag": 1,
+        "start_time": 102.4,
+        "end_time": 102.9
+    },
+    {
+        "word": "about",
+        "speaker_tag": 1,
+        "start_time": 102.9,
+        "end_time": 102.9
+    },
+    {
+        "word": "energy",
+        "speaker_tag": 1,
+        "start_time": 102.9,
+        "end_time": 103.3
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 103.3,
+        "end_time": 103.9
+    },
+    {
+        "word": "comes",
+        "speaker_tag": 1,
+        "start_time": 103.9,
+        "end_time": 104.2
+    },
+    {
+        "word": "from",
+        "speaker_tag": 1,
+        "start_time": 104.2,
+        "end_time": 104.4
+    },
+    {
+        "word": "how",
+        "speaker_tag": 1,
+        "start_time": 104.4,
+        "end_time": 104.9
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 104.9,
+        "end_time": 105.1
+    },
+    {
+        "word": "use",
+        "speaker_tag": 1,
+        "start_time": 105.1,
+        "end_time": 105.3
+    },
+    {
+        "word": "it",
+        "speaker_tag": 1,
+        "start_time": 105.3,
+        "end_time": 105.5
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 105.5,
+        "end_time": 105.8
+    },
+    {
+        "word": "type",
+        "speaker_tag": 1,
+        "start_time": 105.8,
+        "end_time": 106.0
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 106.0,
+        "end_time": 106.1
+    },
+    {
+        "word": "thing",
+        "speaker_tag": 1,
+        "start_time": 106.1,
+        "end_time": 106.2
+    },
+    {
+        "word": "well",
+        "speaker_tag": 2,
+        "start_time": 111.3,
+        "end_time": 112.1
+    },
+    {
+        "word": "really",
+        "speaker_tag": 2,
+        "start_time": 112.1,
+        "end_time": 113.1
+    },
+    {
+        "word": "it",
+        "speaker_tag": 2,
+        "start_time": 113.1,
+        "end_time": 113.3
+    },
+    {
+        "word": "should",
+        "speaker_tag": 2,
+        "start_time": 113.3,
+        "end_time": 113.4
+    },
+    {
+        "word": "all",
+        "speaker_tag": 2,
+        "start_time": 113.4,
+        "end_time": 113.6
+    },
+    {
+        "word": "come",
+        "speaker_tag": 2,
+        "start_time": 113.6,
+        "end_time": 113.7
+    },
+    {
+        "word": "on",
+        "speaker_tag": 2,
+        "start_time": 113.7,
+        "end_time": 113.9
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 113.9,
+        "end_time": 114.0
+    },
+    {
+        "word": "market",
+        "speaker_tag": 2,
+        "start_time": 114.0,
+        "end_time": 114.2
+    },
+    {
+        "word": "and",
+        "speaker_tag": 2,
+        "start_time": 114.2,
+        "end_time": 114.6
+    },
+    {
+        "word": "I'm",
+        "speaker_tag": 2,
+        "start_time": 114.6,
+        "end_time": 115.2
+    },
+    {
+        "word": "happy",
+        "speaker_tag": 2,
+        "start_time": 115.2,
+        "end_time": 115.5
+    },
+    {
+        "word": "that",
+        "speaker_tag": 2,
+        "start_time": 115.5,
+        "end_time": 115.6
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 115.6,
+        "end_time": 115.8
+    },
+    {
+        "word": "were",
+        "speaker_tag": 2,
+        "start_time": 115.8,
+        "end_time": 115.9
+    },
+    {
+        "word": "involved",
+        "speaker_tag": 2,
+        "start_time": 115.9,
+        "end_time": 116.2
+    },
+    {
+        "word": "but",
+        "speaker_tag": 2,
+        "start_time": 116.2,
+        "end_time": 116.9
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 116.9,
+        "end_time": 117.8
+    },
+    {
+        "word": "don't",
+        "speaker_tag": 2,
+        "start_time": 117.8,
+        "end_time": 118.1
+    },
+    {
+        "word": "want",
+        "speaker_tag": 2,
+        "start_time": 118.1,
+        "end_time": 118.2
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 118.2,
+        "end_time": 118.2
+    },
+    {
+        "word": "take",
+        "speaker_tag": 2,
+        "start_time": 118.2,
+        "end_time": 118.4
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 118.4,
+        "end_time": 118.5
+    },
+    {
+        "word": "come",
+        "speaker_tag": 2,
+        "start_time": 118.5,
+        "end_time": 118.7
+    },
+    {
+        "word": "out",
+        "speaker_tag": 2,
+        "start_time": 118.7,
+        "end_time": 118.8
+    },
+    {
+        "word": "of",
+        "speaker_tag": 2,
+        "start_time": 118.8,
+        "end_time": 118.9
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 118.9,
+        "end_time": 119.0
+    },
+    {
+        "word": "training",
+        "speaker_tag": 2,
+        "start_time": 119.0,
+        "end_time": 119.5
+    },
+    {
+        "word": "budget",
+        "speaker_tag": 2,
+        "start_time": 119.5,
+        "end_time": 119.8
+    },
+    {
+        "word": "but",
+        "speaker_tag": 2,
+        "start_time": 119.8,
+        "end_time": 120.8
+    },
+    {
+        "word": "what",
+        "speaker_tag": 1,
+        "start_time": 120.8,
+        "end_time": 121.3
+    },
+    {
+        "word": "about",
+        "speaker_tag": 1,
+        "start_time": 121.3,
+        "end_time": 121.4
+    },
+    {
+        "word": "my",
+        "speaker_tag": 1,
+        "start_time": 121.4,
+        "end_time": 121.6
+    },
+    {
+        "word": "time",
+        "speaker_tag": 1,
+        "start_time": 121.6,
+        "end_time": 122.0
+    },
+    {
+        "word": "on",
+        "speaker_tag": 1,
+        "start_time": 122.0,
+        "end_time": 122.1
+    },
+    {
+        "word": "it",
+        "speaker_tag": 2,
+        "start_time": 122.1,
+        "end_time": 122.3
+    },
+    {
+        "word": "just",
+        "speaker_tag": 2,
+        "start_time": 122.3,
+        "end_time": 123.5
+    },
+    {
+        "word": "saying",
+        "speaker_tag": 2,
+        "start_time": 123.5,
+        "end_time": 123.8
+    },
+    {
+        "word": "watch",
+        "speaker_tag": 2,
+        "start_time": 123.8,
+        "end_time": 124.3
+    },
+    {
+        "word": "how",
+        "speaker_tag": 2,
+        "start_time": 124.3,
+        "end_time": 124.4
+    },
+    {
+        "word": "much",
+        "speaker_tag": 2,
+        "start_time": 124.4,
+        "end_time": 124.6
+    },
+    {
+        "word": "time",
+        "speaker_tag": 2,
+        "start_time": 124.6,
+        "end_time": 125.0
+    },
+    {
+        "word": "it",
+        "speaker_tag": 2,
+        "start_time": 125.0,
+        "end_time": 125.1
+    },
+    {
+        "word": "takes",
+        "speaker_tag": 2,
+        "start_time": 125.1,
+        "end_time": 125.6
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 125.6,
+        "end_time": 126.3
+    },
+    {
+        "word": "know",
+        "speaker_tag": 2,
+        "start_time": 126.3,
+        "end_time": 126.4
+    },
+    {
+        "word": "Davis",
+        "speaker_tag": 2,
+        "start_time": 126.4,
+        "end_time": 127.1
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 127.1,
+        "end_time": 127.6
+    },
+    {
+        "word": "love",
+        "speaker_tag": 2,
+        "start_time": 127.6,
+        "end_time": 127.8
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 127.8,
+        "end_time": 127.9
+    },
+    {
+        "word": "organizing",
+        "speaker_tag": 2,
+        "start_time": 127.9,
+        "end_time": 128.4
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 128.4,
+        "end_time": 128.6
+    },
+    {
+        "word": "whole",
+        "speaker_tag": 2,
+        "start_time": 128.6,
+        "end_time": 128.7
+    },
+    {
+        "word": "event",
+        "speaker_tag": 2,
+        "start_time": 128.7,
+        "end_time": 129.2
+    },
+    {
+        "word": "so",
+        "speaker_tag": 2,
+        "start_time": 129.2,
+        "end_time": 132.2
+    },
+    {
+        "word": "that",
+        "speaker_tag": 2,
+        "start_time": 132.2,
+        "end_time": 135.3
+    },
+    {
+        "word": "Maria",
+        "speaker_tag": 2,
+        "start_time": 135.3,
+        "end_time": 135.9
+    },
+    {
+        "word": "let's",
+        "speaker_tag": 2,
+        "start_time": 135.9,
+        "end_time": 136.2
+    },
+    {
+        "word": "just",
+        "speaker_tag": 2,
+        "start_time": 136.2,
+        "end_time": 136.4
+    },
+    {
+        "word": "recap",
+        "speaker_tag": 2,
+        "start_time": 136.4,
+        "end_time": 137.2
+    },
+    {
+        "word": "I'm",
+        "speaker_tag": 2,
+        "start_time": 137.2,
+        "end_time": 138.7
+    },
+    {
+        "word": "going",
+        "speaker_tag": 2,
+        "start_time": 138.7,
+        "end_time": 138.8
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 138.8,
+        "end_time": 139.0
+    },
+    {
+        "word": "get",
+        "speaker_tag": 2,
+        "start_time": 139.0,
+        "end_time": 139.1
+    },
+    {
+        "word": "back",
+        "speaker_tag": 2,
+        "start_time": 139.1,
+        "end_time": 139.3
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 139.3,
+        "end_time": 139.5
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 139.5,
+        "end_time": 139.7
+    },
+    {
+        "word": "when",
+        "speaker_tag": 2,
+        "start_time": 139.7,
+        "end_time": 139.9
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 139.9,
+        "end_time": 140.0
+    },
+    {
+        "word": "spoken",
+        "speaker_tag": 2,
+        "start_time": 140.0,
+        "end_time": 140.5
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 140.5,
+        "end_time": 140.7
+    },
+    {
+        "word": "honor",
+        "speaker_tag": 2,
+        "start_time": 140.7,
+        "end_time": 141.0
+    },
+    {
+        "word": "about",
+        "speaker_tag": 2,
+        "start_time": 141.0,
+        "end_time": 141.2
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 141.2,
+        "end_time": 141.4
+    },
+    {
+        "word": "cool",
+        "speaker_tag": 2,
+        "start_time": 141.4,
+        "end_time": 141.6
+    },
+    {
+        "word": "send",
+        "speaker_tag": 2,
+        "start_time": 141.6,
+        "end_time": 141.9
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 141.9,
+        "end_time": 142.0
+    },
+    {
+        "word": "training",
+        "speaker_tag": 2,
+        "start_time": 142.0,
+        "end_time": 142.4
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 142.4,
+        "end_time": 143.7
+    },
+    {
+        "word": "will",
+        "speaker_tag": 2,
+        "start_time": 143.7,
+        "end_time": 143.9
+    },
+    {
+        "word": "gain",
+        "speaker_tag": 2,
+        "start_time": 143.9,
+        "end_time": 144.0
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 144.0,
+        "end_time": 144.2
+    },
+    {
+        "word": "speak",
+        "speaker_tag": 2,
+        "start_time": 144.2,
+        "end_time": 144.6
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 144.6,
+        "end_time": 144.7
+    },
+    {
+        "word": "my",
+        "speaker_tag": 2,
+        "start_time": 144.7,
+        "end_time": 145.0
+    },
+    {
+        "word": "son",
+        "speaker_tag": 2,
+        "start_time": 145.0,
+        "end_time": 145.2
+    },
+    {
+        "word": "Lucy",
+        "speaker_tag": 2,
+        "start_time": 145.2,
+        "end_time": 145.8
+    },
+    {
+        "word": "about",
+        "speaker_tag": 2,
+        "start_time": 145.8,
+        "end_time": 146.1
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 146.1,
+        "end_time": 146.5
+    },
+    {
+        "word": "internet",
+        "speaker_tag": 2,
+        "start_time": 146.5,
+        "end_time": 146.9
+    },
+    {
+        "word": "and",
+        "speaker_tag": 2,
+        "start_time": 146.9,
+        "end_time": 148.7
+    },
+    {
+        "word": "you're",
+        "speaker_tag": 2,
+        "start_time": 148.7,
+        "end_time": 149.2
+    },
+    {
+        "word": "going",
+        "speaker_tag": 2,
+        "start_time": 149.2,
+        "end_time": 149.4
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 149.4,
+        "end_time": 149.5
+    },
+    {
+        "word": "proceed",
+        "speaker_tag": 2,
+        "start_time": 149.5,
+        "end_time": 149.7
+    },
+    {
+        "word": "with",
+        "speaker_tag": 2,
+        "start_time": 149.7,
+        "end_time": 150.3
+    },
+    {
+        "word": "caution",
+        "speaker_tag": 2,
+        "start_time": 150.3,
+        "end_time": 150.5
+    },
+    {
+        "word": "with",
+        "speaker_tag": 2,
+        "start_time": 150.5,
+        "end_time": 151.4
+    },
+    {
+        "word": "David's",
+        "speaker_tag": 2,
+        "start_time": 151.4,
+        "end_time": 152.1
+    },
+    {
+        "word": "on",
+        "speaker_tag": 2,
+        "start_time": 152.1,
+        "end_time": 152.6
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 152.6,
+        "end_time": 152.8
+    },
+    {
+        "word": "school's",
+        "speaker_tag": 2,
+        "start_time": 152.8,
+        "end_time": 153.2
+    },
+    {
+        "word": "events",
+        "speaker_tag": 2,
+        "start_time": 153.2,
+        "end_time": 153.6
+    },
+    {
+        "word": "please",
+        "speaker_tag": 2,
+        "start_time": 153.6,
+        "end_time": 154.6
+    },
+    {
+        "word": "keep",
+        "speaker_tag": 2,
+        "start_time": 154.6,
+        "end_time": 154.8
+    },
+    {
+        "word": "me",
+        "speaker_tag": 2,
+        "start_time": 154.8,
+        "end_time": 154.9
+    },
+    {
+        "word": "informed",
+        "speaker_tag": 2,
+        "start_time": 154.9,
+        "end_time": 155.0
+    },
+    {
+        "word": "on",
+        "speaker_tag": 2,
+        "start_time": 155.0,
+        "end_time": 155.4
+    },
+    {
+        "word": "that",
+        "speaker_tag": 2,
+        "start_time": 155.4,
+        "end_time": 155.5
+    },
+    {
+        "word": "one",
+        "speaker_tag": 2,
+        "start_time": 155.5,
+        "end_time": 155.9
+    },
+    {
+        "word": "who's",
+        "speaker_tag": 2,
+        "start_time": 155.9,
+        "end_time": 160.3
+    },
+    {
+        "word": "next",
+        "speaker_tag": 2,
+        "start_time": 160.3,
+        "end_time": 160.9
+    },
+    {
+        "word": "recruitment",
+        "speaker_tag": 2,
+        "start_time": 161.5,
+        "end_time": 162.6
+    },
+    {
+        "word": "Karina",
+        "speaker_tag": 2,
+        "start_time": 162.6,
+        "end_time": 163.8
+    },
+    {
+        "word": "Finance",
+        "speaker_tag": 1,
+        "start_time": 163.8,
+        "end_time": 167.6
+    },
+    {
+        "word": "assistant",
+        "speaker_tag": 1,
+        "start_time": 167.6,
+        "end_time": 167.8
+    },
+    {
+        "word": "somebody",
+        "speaker_tag": 1,
+        "start_time": 167.8,
+        "end_time": 173.8
+    },
+    {
+        "word": "needs",
+        "speaker_tag": 1,
+        "start_time": 173.8,
+        "end_time": 174.1
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 174.1,
+        "end_time": 174.1
+    },
+    {
+        "word": "interview",
+        "speaker_tag": 2,
+        "start_time": 174.1,
+        "end_time": 174.6
+    },
+    {
+        "word": "okay",
+        "speaker_tag": 2,
+        "start_time": 182.5,
+        "end_time": 183.2
+    },
+    {
+        "word": "just",
+        "speaker_tag": 2,
+        "start_time": 183.2,
+        "end_time": 183.5
+    },
+    {
+        "word": "leave",
+        "speaker_tag": 2,
+        "start_time": 183.5,
+        "end_time": 183.6
+    },
+    {
+        "word": "it",
+        "speaker_tag": 2,
+        "start_time": 183.6,
+        "end_time": 183.8
+    },
+    {
+        "word": "with",
+        "speaker_tag": 2,
+        "start_time": 183.8,
+        "end_time": 183.9
+    },
+    {
+        "word": "me",
+        "speaker_tag": 2,
+        "start_time": 183.9,
+        "end_time": 184.1
+    },
+    {
+        "word": "anyway.",
+        "speaker_tag": 2,
+        "start_time": 184.1,
+        "end_time": 185.6
+    },
+    {
+        "word": "Monica",
+        "speaker_tag": 2,
+        "start_time": 187.8,
+        "end_time": 188.4
+    },
+    {
+        "word": "Monica",
+        "speaker_tag": 2,
+        "start_time": 188.4,
+        "end_time": 189.5
+    },
+    {
+        "word": "reception",
+        "speaker_tag": 2,
+        "start_time": 189.5,
+        "end_time": 190.3
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 190.3,
+        "end_time": 191.3
+    },
+    {
+        "word": "said",
+        "speaker_tag": 2,
+        "start_time": 191.3,
+        "end_time": 191.7
+    },
+    {
+        "word": "she's",
+        "speaker_tag": 2,
+        "start_time": 191.7,
+        "end_time": 191.9
+    },
+    {
+        "word": "off",
+        "speaker_tag": 2,
+        "start_time": 191.9,
+        "end_time": 192.0
+    },
+    {
+        "word": "sick",
+        "speaker_tag": 2,
+        "start_time": 192.0,
+        "end_time": 192.3
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 192.3,
+        "end_time": 193.2
+    },
+    {
+        "word": "know",
+        "speaker_tag": 2,
+        "start_time": 193.2,
+        "end_time": 193.5
+    },
+    {
+        "word": "but",
+        "speaker_tag": 2,
+        "start_time": 193.5,
+        "end_time": 193.8
+    },
+    {
+        "word": "her",
+        "speaker_tag": 2,
+        "start_time": 193.8,
+        "end_time": 193.9
+    },
+    {
+        "word": "interview",
+        "speaker_tag": 2,
+        "start_time": 193.9,
+        "end_time": 194.2
+    },
+    {
+        "word": "is",
+        "speaker_tag": 2,
+        "start_time": 194.2,
+        "end_time": 194.4
+    },
+    {
+        "word": "tomorrow",
+        "speaker_tag": 2,
+        "start_time": 194.4,
+        "end_time": 194.6
+    },
+    {
+        "word": "so",
+        "speaker_tag": 2,
+        "start_time": 194.6,
+        "end_time": 195.1
+    },
+    {
+        "word": "we",
+        "speaker_tag": 2,
+        "start_time": 195.1,
+        "end_time": 195.2
+    },
+    {
+        "word": "have",
+        "speaker_tag": 2,
+        "start_time": 195.2,
+        "end_time": 195.2
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 195.2,
+        "end_time": 195.4
+    },
+    {
+        "word": "assume",
+        "speaker_tag": 2,
+        "start_time": 195.4,
+        "end_time": 195.5
+    },
+    {
+        "word": "that",
+        "speaker_tag": 2,
+        "start_time": 195.5,
+        "end_time": 196.0
+    },
+    {
+        "word": "she'll",
+        "speaker_tag": 2,
+        "start_time": 196.0,
+        "end_time": 196.2
+    },
+    {
+        "word": "be",
+        "speaker_tag": 2,
+        "start_time": 196.2,
+        "end_time": 196.3
+    },
+    {
+        "word": "there",
+        "speaker_tag": 2,
+        "start_time": 196.3,
+        "end_time": 196.6
+    },
+    {
+        "word": "so",
+        "speaker_tag": 2,
+        "start_time": 196.6,
+        "end_time": 197.7
+    },
+    {
+        "word": "I'm",
+        "speaker_tag": 2,
+        "start_time": 197.7,
+        "end_time": 200.1
+    },
+    {
+        "word": "interviewing",
+        "speaker_tag": 2,
+        "start_time": 200.1,
+        "end_time": 200.5
+    },
+    {
+        "word": "Monica",
+        "speaker_tag": 2,
+        "start_time": 200.5,
+        "end_time": 201.2
+    },
+    {
+        "word": "with",
+        "speaker_tag": 2,
+        "start_time": 201.2,
+        "end_time": 201.6
+    },
+    {
+        "word": "Maya",
+        "speaker_tag": 2,
+        "start_time": 201.6,
+        "end_time": 202.0
+    },
+    {
+        "word": "tomorrow",
+        "speaker_tag": 2,
+        "start_time": 202.0,
+        "end_time": 202.5
+    },
+    {
+        "word": "what",
+        "speaker_tag": 2,
+        "start_time": 202.5,
+        "end_time": 204.2
+    },
+    {
+        "word": "time",
+        "speaker_tag": 2,
+        "start_time": 204.2,
+        "end_time": 204.4
+    },
+    {
+        "word": "while",
+        "speaker_tag": 2,
+        "start_time": 204.4,
+        "end_time": 210.7
+    },
+    {
+        "word": "she's",
+        "speaker_tag": 2,
+        "start_time": 210.7,
+        "end_time": 210.9
+    },
+    {
+        "word": "having",
+        "speaker_tag": 2,
+        "start_time": 210.9,
+        "end_time": 211.0
+    },
+    {
+        "word": "her",
+        "speaker_tag": 2,
+        "start_time": 211.0,
+        "end_time": 211.2
+    },
+    {
+        "word": "interview",
+        "speaker_tag": 2,
+        "start_time": 211.2,
+        "end_time": 211.7
+    },
+    {
+        "word": "will",
+        "speaker_tag": 2,
+        "start_time": 211.7,
+        "end_time": 212.4
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 212.4,
+        "end_time": 212.5
+    },
+    {
+        "word": "same",
+        "speaker_tag": 2,
+        "start_time": 212.5,
+        "end_time": 212.8
+    },
+    {
+        "word": "Tempest",
+        "speaker_tag": 2,
+        "start_time": 212.8,
+        "end_time": 213.2
+    },
+    {
+        "word": "today",
+        "speaker_tag": 2,
+        "start_time": 213.2,
+        "end_time": 213.6
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 213.6,
+        "end_time": 213.7
+    },
+    {
+        "word": "hope",
+        "speaker_tag": 2,
+        "start_time": 213.7,
+        "end_time": 213.8
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 213.8,
+        "end_time": 215.0
+    },
+    {
+        "word": "won't",
+        "speaker_tag": 2,
+        "start_time": 215.0,
+        "end_time": 215.2
+    },
+    {
+        "word": "be",
+        "speaker_tag": 2,
+        "start_time": 215.2,
+        "end_time": 215.3
+    },
+    {
+        "word": "there",
+        "speaker_tag": 2,
+        "start_time": 215.3,
+        "end_time": 215.5
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 215.5,
+        "end_time": 215.6
+    },
+    {
+        "word": "make",
+        "speaker_tag": 2,
+        "start_time": 215.6,
+        "end_time": 215.8
+    },
+    {
+        "word": "sure",
+        "speaker_tag": 2,
+        "start_time": 215.8,
+        "end_time": 215.9
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 215.9,
+        "end_time": 216.8
+    },
+    {
+        "word": "said",
+        "speaker_tag": 2,
+        "start_time": 216.8,
+        "end_time": 217.1
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 217.1,
+        "end_time": 217.3
+    },
+    {
+        "word": "could",
+        "speaker_tag": 2,
+        "start_time": 217.3,
+        "end_time": 217.4
+    },
+    {
+        "word": "have",
+        "speaker_tag": 2,
+        "start_time": 217.4,
+        "end_time": 217.5
+    },
+    {
+        "word": "tomorrow",
+        "speaker_tag": 2,
+        "start_time": 217.5,
+        "end_time": 217.9
+    },
+    {
+        "word": "off",
+        "speaker_tag": 2,
+        "start_time": 217.9,
+        "end_time": 218.3
+    },
+    {
+        "word": "next",
+        "speaker_tag": 2,
+        "start_time": 218.3,
+        "end_time": 224.4
+    },
+    {
+        "word": "Ingrid",
+        "speaker_tag": 2,
+        "start_time": 224.4,
+        "end_time": 225.8
+    },
+    {
+        "word": "how",
+        "speaker_tag": 2,
+        "start_time": 225.8,
+        "end_time": 226.8
+    },
+    {
+        "word": "are",
+        "speaker_tag": 2,
+        "start_time": 226.8,
+        "end_time": 226.9
+    },
+    {
+        "word": "things",
+        "speaker_tag": 2,
+        "start_time": 226.9,
+        "end_time": 227.1
+    },
+    {
+        "word": "going",
+        "speaker_tag": 2,
+        "start_time": 227.1,
+        "end_time": 227.3
+    },
+    {
+        "word": "with",
+        "speaker_tag": 2,
+        "start_time": 227.3,
+        "end_time": 227.4
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 227.4,
+        "end_time": 227.7
+    },
+    {
+        "word": "Monica",
+        "speaker_tag": 2,
+        "start_time": 187.8,
+        "end_time": 188.4
+    },
+    {
+        "word": "Monica",
+        "speaker_tag": 2,
+        "start_time": 188.4,
+        "end_time": 189.5
+    },
+    {
+        "word": "reception",
+        "speaker_tag": 2,
+        "start_time": 189.5,
+        "end_time": 190.3
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 190.3,
+        "end_time": 191.3
+    },
+    {
+        "word": "said",
+        "speaker_tag": 2,
+        "start_time": 191.3,
+        "end_time": 191.7
+    },
+    {
+        "word": "she's",
+        "speaker_tag": 2,
+        "start_time": 191.7,
+        "end_time": 191.9
+    },
+    {
+        "word": "off",
+        "speaker_tag": 2,
+        "start_time": 191.9,
+        "end_time": 192.0
+    },
+    {
+        "word": "sick",
+        "speaker_tag": 2,
+        "start_time": 192.0,
+        "end_time": 192.3
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 192.3,
+        "end_time": 193.2
+    },
+    {
+        "word": "know",
+        "speaker_tag": 2,
+        "start_time": 193.2,
+        "end_time": 193.5
+    },
+    {
+        "word": "but",
+        "speaker_tag": 2,
+        "start_time": 193.5,
+        "end_time": 193.8
+    },
+    {
+        "word": "her",
+        "speaker_tag": 2,
+        "start_time": 193.8,
+        "end_time": 193.9
+    },
+    {
+        "word": "interview",
+        "speaker_tag": 2,
+        "start_time": 193.9,
+        "end_time": 194.2
+    },
+    {
+        "word": "is",
+        "speaker_tag": 2,
+        "start_time": 194.2,
+        "end_time": 194.4
+    },
+    {
+        "word": "tomorrow",
+        "speaker_tag": 2,
+        "start_time": 194.4,
+        "end_time": 194.6
+    },
+    {
+        "word": "so",
+        "speaker_tag": 2,
+        "start_time": 194.6,
+        "end_time": 195.1
+    },
+    {
+        "word": "we",
+        "speaker_tag": 2,
+        "start_time": 195.1,
+        "end_time": 195.2
+    },
+    {
+        "word": "have",
+        "speaker_tag": 2,
+        "start_time": 195.2,
+        "end_time": 195.2
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 195.2,
+        "end_time": 195.4
+    },
+    {
+        "word": "assume",
+        "speaker_tag": 2,
+        "start_time": 195.4,
+        "end_time": 195.5
+    },
+    {
+        "word": "that",
+        "speaker_tag": 2,
+        "start_time": 195.5,
+        "end_time": 196.0
+    },
+    {
+        "word": "she'll",
+        "speaker_tag": 2,
+        "start_time": 196.0,
+        "end_time": 196.2
+    },
+    {
+        "word": "be",
+        "speaker_tag": 2,
+        "start_time": 196.2,
+        "end_time": 196.3
+    },
+    {
+        "word": "there",
+        "speaker_tag": 2,
+        "start_time": 196.3,
+        "end_time": 196.6
+    },
+    {
+        "word": "so",
+        "speaker_tag": 2,
+        "start_time": 196.6,
+        "end_time": 197.7
+    },
+    {
+        "word": "I'm",
+        "speaker_tag": 2,
+        "start_time": 197.7,
+        "end_time": 200.1
+    },
+    {
+        "word": "interviewing",
+        "speaker_tag": 2,
+        "start_time": 200.1,
+        "end_time": 200.5
+    },
+    {
+        "word": "Monica",
+        "speaker_tag": 2,
+        "start_time": 200.5,
+        "end_time": 201.2
+    },
+    {
+        "word": "with",
+        "speaker_tag": 2,
+        "start_time": 201.2,
+        "end_time": 201.6
+    },
+    {
+        "word": "Maya",
+        "speaker_tag": 2,
+        "start_time": 201.6,
+        "end_time": 202.0
+    },
+    {
+        "word": "tomorrow",
+        "speaker_tag": 2,
+        "start_time": 202.0,
+        "end_time": 202.5
+    },
+    {
+        "word": "what",
+        "speaker_tag": 2,
+        "start_time": 202.5,
+        "end_time": 204.2
+    },
+    {
+        "word": "time",
+        "speaker_tag": 2,
+        "start_time": 204.2,
+        "end_time": 204.4
+    },
+    {
+        "word": "while",
+        "speaker_tag": 2,
+        "start_time": 204.4,
+        "end_time": 210.7
+    },
+    {
+        "word": "she's",
+        "speaker_tag": 2,
+        "start_time": 210.7,
+        "end_time": 210.9
+    },
+    {
+        "word": "having",
+        "speaker_tag": 2,
+        "start_time": 210.9,
+        "end_time": 211.0
+    },
+    {
+        "word": "her",
+        "speaker_tag": 2,
+        "start_time": 211.0,
+        "end_time": 211.2
+    },
+    {
+        "word": "interview",
+        "speaker_tag": 2,
+        "start_time": 211.2,
+        "end_time": 211.7
+    },
+    {
+        "word": "will",
+        "speaker_tag": 2,
+        "start_time": 211.7,
+        "end_time": 212.4
+    },
+    {
+        "word": "the",
+        "speaker_tag": 2,
+        "start_time": 212.4,
+        "end_time": 212.5
+    },
+    {
+        "word": "same",
+        "speaker_tag": 2,
+        "start_time": 212.5,
+        "end_time": 212.8
+    },
+    {
+        "word": "Tempest",
+        "speaker_tag": 2,
+        "start_time": 212.8,
+        "end_time": 213.2
+    },
+    {
+        "word": "today",
+        "speaker_tag": 2,
+        "start_time": 213.2,
+        "end_time": 213.6
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 213.6,
+        "end_time": 213.7
+    },
+    {
+        "word": "hope",
+        "speaker_tag": 2,
+        "start_time": 213.7,
+        "end_time": 213.8
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 213.8,
+        "end_time": 215.0
+    },
+    {
+        "word": "won't",
+        "speaker_tag": 2,
+        "start_time": 215.0,
+        "end_time": 215.2
+    },
+    {
+        "word": "be",
+        "speaker_tag": 2,
+        "start_time": 215.2,
+        "end_time": 215.3
+    },
+    {
+        "word": "there",
+        "speaker_tag": 2,
+        "start_time": 215.3,
+        "end_time": 215.5
+    },
+    {
+        "word": "to",
+        "speaker_tag": 2,
+        "start_time": 215.5,
+        "end_time": 215.6
+    },
+    {
+        "word": "make",
+        "speaker_tag": 2,
+        "start_time": 215.6,
+        "end_time": 215.8
+    },
+    {
+        "word": "sure",
+        "speaker_tag": 2,
+        "start_time": 215.8,
+        "end_time": 215.9
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 215.9,
+        "end_time": 216.8
+    },
+    {
+        "word": "said",
+        "speaker_tag": 2,
+        "start_time": 216.8,
+        "end_time": 217.1
+    },
+    {
+        "word": "I",
+        "speaker_tag": 2,
+        "start_time": 217.1,
+        "end_time": 217.3
+    },
+    {
+        "word": "could",
+        "speaker_tag": 2,
+        "start_time": 217.3,
+        "end_time": 217.4
+    },
+    {
+        "word": "have",
+        "speaker_tag": 2,
+        "start_time": 217.4,
+        "end_time": 217.5
+    },
+    {
+        "word": "tomorrow",
+        "speaker_tag": 2,
+        "start_time": 217.5,
+        "end_time": 217.9
+    },
+    {
+        "word": "off",
+        "speaker_tag": 2,
+        "start_time": 217.9,
+        "end_time": 218.3
+    },
+    {
+        "word": "next",
+        "speaker_tag": 2,
+        "start_time": 218.3,
+        "end_time": 224.4
+    },
+    {
+        "word": "Ingrid",
+        "speaker_tag": 2,
+        "start_time": 224.4,
+        "end_time": 225.8
+    },
+    {
+        "word": "how",
+        "speaker_tag": 2,
+        "start_time": 225.8,
+        "end_time": 226.8
+    },
+    {
+        "word": "are",
+        "speaker_tag": 2,
+        "start_time": 226.8,
+        "end_time": 226.9
+    },
+    {
+        "word": "things",
+        "speaker_tag": 2,
+        "start_time": 226.9,
+        "end_time": 227.1
+    },
+    {
+        "word": "going",
+        "speaker_tag": 2,
+        "start_time": 227.1,
+        "end_time": 227.3
+    },
+    {
+        "word": "with",
+        "speaker_tag": 2,
+        "start_time": 227.3,
+        "end_time": 227.4
+    },
+    {
+        "word": "you",
+        "speaker_tag": 2,
+        "start_time": 227.4,
+        "end_time": 227.7
+    }
+]

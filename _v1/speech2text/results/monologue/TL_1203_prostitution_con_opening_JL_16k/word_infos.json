@@ -1,0 +1,4484 @@
+[
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 0.4,
+        "end_time": 0.8
+    },
+    {
+        "word": "should",
+        "speaker_tag": 1,
+        "start_time": 0.8,
+        "end_time": 1.1
+    },
+    {
+        "word": "not",
+        "speaker_tag": 1,
+        "start_time": 1.1,
+        "end_time": 1.2
+    },
+    {
+        "word": "legalize",
+        "speaker_tag": 1,
+        "start_time": 1.2,
+        "end_time": 2.0
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 2.0,
+        "end_time": 2.4
+    },
+    {
+        "word": "we've",
+        "speaker_tag": 1,
+        "start_time": 2.4,
+        "end_time": 3.8
+    },
+    {
+        "word": "been",
+        "speaker_tag": 1,
+        "start_time": 3.8,
+        "end_time": 3.9
+    },
+    {
+        "word": "done",
+        "speaker_tag": 1,
+        "start_time": 3.9,
+        "end_time": 4.1
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 4.1,
+        "end_time": 4.3
+    },
+    {
+        "word": "status",
+        "speaker_tag": 1,
+        "start_time": 4.3,
+        "end_time": 4.6
+    },
+    {
+        "word": "quo",
+        "speaker_tag": 1,
+        "start_time": 4.6,
+        "end_time": 4.9
+    },
+    {
+        "word": "there",
+        "speaker_tag": 1,
+        "start_time": 4.9,
+        "end_time": 5.0
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 5.0,
+        "end_time": 5.2
+    },
+    {
+        "word": "number",
+        "speaker_tag": 1,
+        "start_time": 5.2,
+        "end_time": 5.5
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 5.5,
+        "end_time": 5.6
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 5.6,
+        "end_time": 5.7
+    },
+    {
+        "word": "pieces",
+        "speaker_tag": 1,
+        "start_time": 5.7,
+        "end_time": 6.1
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 6.1,
+        "end_time": 6.3
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 6.3,
+        "end_time": 6.5
+    },
+    {
+        "word": "associated",
+        "speaker_tag": 1,
+        "start_time": 6.5,
+        "end_time": 6.8
+    },
+    {
+        "word": "with",
+        "speaker_tag": 1,
+        "start_time": 6.8,
+        "end_time": 7.3
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 7.3,
+        "end_time": 7.7
+    },
+    {
+        "word": "whether",
+        "speaker_tag": 1,
+        "start_time": 7.7,
+        "end_time": 8.4
+    },
+    {
+        "word": "it's",
+        "speaker_tag": 1,
+        "start_time": 8.4,
+        "end_time": 8.6
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 8.6,
+        "end_time": 8.7
+    },
+    {
+        "word": "fact",
+        "speaker_tag": 1,
+        "start_time": 8.7,
+        "end_time": 9.1
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 9.1,
+        "end_time": 9.4
+    },
+    {
+        "word": "pins",
+        "speaker_tag": 1,
+        "start_time": 9.4,
+        "end_time": 9.8
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 9.8,
+        "end_time": 10.0
+    },
+    {
+        "word": "John's",
+        "speaker_tag": 1,
+        "start_time": 10.0,
+        "end_time": 10.4
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 10.4,
+        "end_time": 10.6
+    },
+    {
+        "word": "able",
+        "speaker_tag": 1,
+        "start_time": 10.6,
+        "end_time": 10.8
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 10.8,
+        "end_time": 10.9
+    },
+    {
+        "word": "abuse",
+        "speaker_tag": 1,
+        "start_time": 10.9,
+        "end_time": 11.3
+    },
+    {
+        "word": "prostitutes",
+        "speaker_tag": 1,
+        "start_time": 11.3,
+        "end_time": 11.9
+    },
+    {
+        "word": "themselves",
+        "speaker_tag": 1,
+        "start_time": 11.9,
+        "end_time": 12.4
+    },
+    {
+        "word": "whether",
+        "speaker_tag": 1,
+        "start_time": 12.4,
+        "end_time": 13.0
+    },
+    {
+        "word": "it's",
+        "speaker_tag": 1,
+        "start_time": 13.0,
+        "end_time": 13.2
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 13.2,
+        "end_time": 13.3
+    },
+    {
+        "word": "transmission",
+        "speaker_tag": 1,
+        "start_time": 13.3,
+        "end_time": 13.7
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 13.7,
+        "end_time": 14.1
+    },
+    {
+        "word": "sexually",
+        "speaker_tag": 1,
+        "start_time": 14.1,
+        "end_time": 14.6
+    },
+    {
+        "word": "transmitted",
+        "speaker_tag": 1,
+        "start_time": 14.6,
+        "end_time": 15.1
+    },
+    {
+        "word": "disease",
+        "speaker_tag": 1,
+        "start_time": 15.1,
+        "end_time": 15.2
+    },
+    {
+        "word": "through",
+        "speaker_tag": 1,
+        "start_time": 15.2,
+        "end_time": 16.3
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 16.3,
+        "end_time": 17.1
+    },
+    {
+        "word": "whether",
+        "speaker_tag": 1,
+        "start_time": 17.1,
+        "end_time": 17.7
+    },
+    {
+        "word": "it's",
+        "speaker_tag": 1,
+        "start_time": 17.7,
+        "end_time": 17.9
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 17.9,
+        "end_time": 18.0
+    },
+    {
+        "word": "fact",
+        "speaker_tag": 1,
+        "start_time": 18.0,
+        "end_time": 18.3
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 18.3,
+        "end_time": 18.3
+    },
+    {
+        "word": "people",
+        "speaker_tag": 1,
+        "start_time": 18.3,
+        "end_time": 18.6
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 18.6,
+        "end_time": 19.1
+    },
+    {
+        "word": "oftentimes",
+        "speaker_tag": 1,
+        "start_time": 19.1,
+        "end_time": 19.4
+    },
+    {
+        "word": "coerced",
+        "speaker_tag": 1,
+        "start_time": 19.4,
+        "end_time": 20.1
+    },
+    {
+        "word": "into",
+        "speaker_tag": 1,
+        "start_time": 20.1,
+        "end_time": 20.3
+    },
+    {
+        "word": "entering",
+        "speaker_tag": 1,
+        "start_time": 20.3,
+        "end_time": 20.7
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 20.7,
+        "end_time": 20.8
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 20.8,
+        "end_time": 21.4
+    },
+    {
+        "word": "Market",
+        "speaker_tag": 1,
+        "start_time": 21.4,
+        "end_time": 21.8
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 21.8,
+        "end_time": 21.9
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 21.9,
+        "end_time": 22.0
+    },
+    {
+        "word": "first",
+        "speaker_tag": 1,
+        "start_time": 22.0,
+        "end_time": 22.3
+    },
+    {
+        "word": "place",
+        "speaker_tag": 1,
+        "start_time": 22.3,
+        "end_time": 22.6
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 22.6,
+        "end_time": 23.2
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 23.2,
+        "end_time": 23.7
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 23.7,
+        "end_time": 23.8
+    },
+    {
+        "word": "legalizing",
+        "speaker_tag": 1,
+        "start_time": 23.8,
+        "end_time": 24.7
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 24.7,
+        "end_time": 24.8
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 24.8,
+        "end_time": 25.8
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 25.8,
+        "end_time": 25.9
+    },
+    {
+        "word": "wrong",
+        "speaker_tag": 1,
+        "start_time": 25.9,
+        "end_time": 26.7
+    },
+    {
+        "word": "way",
+        "speaker_tag": 1,
+        "start_time": 26.7,
+        "end_time": 27.0
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 27.0,
+        "end_time": 27.0
+    },
+    {
+        "word": "go",
+        "speaker_tag": 1,
+        "start_time": 27.0,
+        "end_time": 27.2
+    },
+    {
+        "word": "about",
+        "speaker_tag": 1,
+        "start_time": 27.2,
+        "end_time": 27.4
+    },
+    {
+        "word": "alleviating",
+        "speaker_tag": 1,
+        "start_time": 27.4,
+        "end_time": 28.4
+    },
+    {
+        "word": "these",
+        "speaker_tag": 1,
+        "start_time": 28.4,
+        "end_time": 28.6
+    },
+    {
+        "word": "abuses",
+        "speaker_tag": 1,
+        "start_time": 28.6,
+        "end_time": 28.8
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 28.8,
+        "end_time": 29.6
+    },
+    {
+        "word": "furthermore",
+        "speaker_tag": 1,
+        "start_time": 29.6,
+        "end_time": 29.9
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 29.9,
+        "end_time": 30.3
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 30.3,
+        "end_time": 30.6
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 30.6,
+        "end_time": 30.7
+    },
+    {
+        "word": "when",
+        "speaker_tag": 1,
+        "start_time": 30.7,
+        "end_time": 30.8
+    },
+    {
+        "word": "you",
+        "speaker_tag": 1,
+        "start_time": 30.8,
+        "end_time": 30.9
+    },
+    {
+        "word": "legalize",
+        "speaker_tag": 1,
+        "start_time": 30.9,
+        "end_time": 31.4
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 31.4,
+        "end_time": 31.6
+    },
+    {
+        "word": "you",
+        "speaker_tag": 1,
+        "start_time": 31.6,
+        "end_time": 32.1
+    },
+    {
+        "word": "owe",
+        "speaker_tag": 1,
+        "start_time": 32.1,
+        "end_time": 32.2
+    },
+    {
+        "word": "me",
+        "speaker_tag": 1,
+        "start_time": 32.2,
+        "end_time": 32.4
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 32.4,
+        "end_time": 32.5
+    },
+    {
+        "word": "French",
+        "speaker_tag": 1,
+        "start_time": 32.5,
+        "end_time": 32.9
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 32.9,
+        "end_time": 33.0
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 33.0,
+        "end_time": 33.2
+    },
+    {
+        "word": "business",
+        "speaker_tag": 1,
+        "start_time": 33.2,
+        "end_time": 33.6
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 33.6,
+        "end_time": 34.0
+    },
+    {
+        "word": "make",
+        "speaker_tag": 1,
+        "start_time": 34.0,
+        "end_time": 34.2
+    },
+    {
+        "word": "it",
+        "speaker_tag": 1,
+        "start_time": 34.2,
+        "end_time": 34.3
+    },
+    {
+        "word": "more",
+        "speaker_tag": 1,
+        "start_time": 34.3,
+        "end_time": 34.5
+    },
+    {
+        "word": "likely",
+        "speaker_tag": 1,
+        "start_time": 34.5,
+        "end_time": 34.8
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 34.8,
+        "end_time": 34.9
+    },
+    {
+        "word": "those",
+        "speaker_tag": 1,
+        "start_time": 34.9,
+        "end_time": 35.1
+    },
+    {
+        "word": "abusus",
+        "speaker_tag": 1,
+        "start_time": 35.1,
+        "end_time": 35.6
+    },
+    {
+        "word": "will",
+        "speaker_tag": 1,
+        "start_time": 35.6,
+        "end_time": 35.8
+    },
+    {
+        "word": "move",
+        "speaker_tag": 1,
+        "start_time": 35.8,
+        "end_time": 36.0
+    },
+    {
+        "word": "out",
+        "speaker_tag": 1,
+        "start_time": 36.0,
+        "end_time": 36.1
+    },
+    {
+        "word": "first",
+        "speaker_tag": 1,
+        "start_time": 36.1,
+        "end_time": 36.6
+    },
+    {
+        "word": "when",
+        "speaker_tag": 1,
+        "start_time": 36.6,
+        "end_time": 37.3
+    },
+    {
+        "word": "I",
+        "speaker_tag": 1,
+        "start_time": 37.3,
+        "end_time": 37.3
+    },
+    {
+        "word": "talk",
+        "speaker_tag": 1,
+        "start_time": 37.3,
+        "end_time": 37.5
+    },
+    {
+        "word": "about",
+        "speaker_tag": 1,
+        "start_time": 37.5,
+        "end_time": 37.6
+    },
+    {
+        "word": "why",
+        "speaker_tag": 1,
+        "start_time": 37.6,
+        "end_time": 37.9
+    },
+    {
+        "word": "those",
+        "speaker_tag": 1,
+        "start_time": 37.9,
+        "end_time": 38.1
+    },
+    {
+        "word": "abuses",
+        "speaker_tag": 1,
+        "start_time": 38.1,
+        "end_time": 38.5
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 38.5,
+        "end_time": 38.7
+    },
+    {
+        "word": "more",
+        "speaker_tag": 1,
+        "start_time": 38.7,
+        "end_time": 38.9
+    },
+    {
+        "word": "likely",
+        "speaker_tag": 1,
+        "start_time": 38.9,
+        "end_time": 39.2
+    },
+    {
+        "word": "become",
+        "speaker_tag": 1,
+        "start_time": 39.2,
+        "end_time": 39.4
+    },
+    {
+        "word": "prevalent",
+        "speaker_tag": 1,
+        "start_time": 39.4,
+        "end_time": 39.8
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 39.8,
+        "end_time": 40.1
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 40.1,
+        "end_time": 40.2
+    },
+    {
+        "word": "legalized",
+        "speaker_tag": 1,
+        "start_time": 40.2,
+        "end_time": 40.8
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 40.8,
+        "end_time": 41.0
+    },
+    {
+        "word": "market",
+        "speaker_tag": 1,
+        "start_time": 41.0,
+        "end_time": 41.9
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 41.9,
+        "end_time": 42.4
+    },
+    {
+        "word": "then",
+        "speaker_tag": 1,
+        "start_time": 42.4,
+        "end_time": 42.5
+    },
+    {
+        "word": "we're",
+        "speaker_tag": 1,
+        "start_time": 42.5,
+        "end_time": 42.6
+    },
+    {
+        "word": "going",
+        "speaker_tag": 1,
+        "start_time": 42.6,
+        "end_time": 42.6
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 42.6,
+        "end_time": 42.7
+    },
+    {
+        "word": "talk",
+        "speaker_tag": 1,
+        "start_time": 42.7,
+        "end_time": 42.8
+    },
+    {
+        "word": "about",
+        "speaker_tag": 1,
+        "start_time": 42.8,
+        "end_time": 42.9
+    },
+    {
+        "word": "Alternatives",
+        "speaker_tag": 1,
+        "start_time": 42.9,
+        "end_time": 43.8
+    },
+    {
+        "word": "if",
+        "speaker_tag": 1,
+        "start_time": 43.8,
+        "end_time": 43.9
+    },
+    {
+        "word": "you",
+        "speaker_tag": 1,
+        "start_time": 43.9,
+        "end_time": 44.0
+    },
+    {
+        "word": "actually",
+        "speaker_tag": 1,
+        "start_time": 44.0,
+        "end_time": 44.2
+    },
+    {
+        "word": "care",
+        "speaker_tag": 1,
+        "start_time": 44.2,
+        "end_time": 44.8
+    },
+    {
+        "word": "about",
+        "speaker_tag": 1,
+        "start_time": 44.8,
+        "end_time": 45.2
+    },
+    {
+        "word": "alleviating",
+        "speaker_tag": 1,
+        "start_time": 45.2,
+        "end_time": 46.0
+    },
+    {
+        "word": "those",
+        "speaker_tag": 1,
+        "start_time": 46.0,
+        "end_time": 46.2
+    },
+    {
+        "word": "types",
+        "speaker_tag": 1,
+        "start_time": 46.2,
+        "end_time": 46.5
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 46.5,
+        "end_time": 46.6
+    },
+    {
+        "word": "abuses",
+        "speaker_tag": 1,
+        "start_time": 46.6,
+        "end_time": 47.0
+    },
+    {
+        "word": "so",
+        "speaker_tag": 1,
+        "start_time": 47.0,
+        "end_time": 47.4
+    },
+    {
+        "word": "recognize",
+        "speaker_tag": 1,
+        "start_time": 47.4,
+        "end_time": 48.6
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 48.6,
+        "end_time": 48.8
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 48.8,
+        "end_time": 49.1
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 49.1,
+        "end_time": 49.2
+    },
+    {
+        "word": "status",
+        "speaker_tag": 1,
+        "start_time": 49.2,
+        "end_time": 49.5
+    },
+    {
+        "word": "quo",
+        "speaker_tag": 1,
+        "start_time": 49.5,
+        "end_time": 49.6
+    },
+    {
+        "word": "women",
+        "speaker_tag": 1,
+        "start_time": 49.6,
+        "end_time": 50.5
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 50.5,
+        "end_time": 50.6
+    },
+    {
+        "word": "often",
+        "speaker_tag": 1,
+        "start_time": 50.6,
+        "end_time": 50.9
+    },
+    {
+        "word": "coerced",
+        "speaker_tag": 1,
+        "start_time": 50.9,
+        "end_time": 51.6
+    },
+    {
+        "word": "into",
+        "speaker_tag": 1,
+        "start_time": 51.6,
+        "end_time": 51.9
+    },
+    {
+        "word": "choosing",
+        "speaker_tag": 1,
+        "start_time": 51.9,
+        "end_time": 52.5
+    },
+    {
+        "word": "or",
+        "speaker_tag": 1,
+        "start_time": 52.5,
+        "end_time": 53.3
+    },
+    {
+        "word": "entering",
+        "speaker_tag": 1,
+        "start_time": 53.3,
+        "end_time": 53.6
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 53.6,
+        "end_time": 54.4
+    },
+    {
+        "word": "it's",
+        "speaker_tag": 1,
+        "start_time": 54.4,
+        "end_time": 54.6
+    },
+    {
+        "word": "not",
+        "speaker_tag": 1,
+        "start_time": 54.6,
+        "end_time": 54.8
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 54.8,
+        "end_time": 54.8
+    },
+    {
+        "word": "free",
+        "speaker_tag": 1,
+        "start_time": 54.8,
+        "end_time": 55.0
+    },
+    {
+        "word": "choice",
+        "speaker_tag": 1,
+        "start_time": 55.0,
+        "end_time": 55.3
+    },
+    {
+        "word": "this",
+        "speaker_tag": 1,
+        "start_time": 55.3,
+        "end_time": 55.6
+    },
+    {
+        "word": "may",
+        "speaker_tag": 1,
+        "start_time": 55.6,
+        "end_time": 55.8
+    },
+    {
+        "word": "be",
+        "speaker_tag": 1,
+        "start_time": 55.8,
+        "end_time": 55.9
+    },
+    {
+        "word": "because",
+        "speaker_tag": 1,
+        "start_time": 55.9,
+        "end_time": 56.0
+    },
+    {
+        "word": "they're",
+        "speaker_tag": 1,
+        "start_time": 56.0,
+        "end_time": 56.8
+    },
+    {
+        "word": "experiencing",
+        "speaker_tag": 1,
+        "start_time": 56.8,
+        "end_time": 57.4
+    },
+    {
+        "word": "economic",
+        "speaker_tag": 1,
+        "start_time": 57.4,
+        "end_time": 57.8
+    },
+    {
+        "word": "hardship",
+        "speaker_tag": 1,
+        "start_time": 57.8,
+        "end_time": 58.5
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 58.5,
+        "end_time": 58.6
+    },
+    {
+        "word": "maybe",
+        "speaker_tag": 1,
+        "start_time": 58.6,
+        "end_time": 58.9
+    },
+    {
+        "word": "because",
+        "speaker_tag": 1,
+        "start_time": 58.9,
+        "end_time": 59.4
+    },
+    {
+        "word": "they've",
+        "speaker_tag": 1,
+        "start_time": 59.4,
+        "end_time": 59.9
+    },
+    {
+        "word": "been",
+        "speaker_tag": 1,
+        "start_time": 59.9,
+        "end_time": 59.9
+    },
+    {
+        "word": "blocked",
+        "speaker_tag": 1,
+        "start_time": 60.4,
+        "end_time": 61.1
+    },
+    {
+        "word": "out",
+        "speaker_tag": 1,
+        "start_time": 61.1,
+        "end_time": 61.3
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 61.3,
+        "end_time": 61.5
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 61.5,
+        "end_time": 61.6
+    },
+    {
+        "word": "employment",
+        "speaker_tag": 1,
+        "start_time": 61.6,
+        "end_time": 62.1
+    },
+    {
+        "word": "fear",
+        "speaker_tag": 1,
+        "start_time": 62.1,
+        "end_time": 62.5
+    },
+    {
+        "word": "because",
+        "speaker_tag": 1,
+        "start_time": 62.5,
+        "end_time": 62.8
+    },
+    {
+        "word": "they",
+        "speaker_tag": 1,
+        "start_time": 62.8,
+        "end_time": 62.9
+    },
+    {
+        "word": "may",
+        "speaker_tag": 1,
+        "start_time": 62.9,
+        "end_time": 63.0
+    },
+    {
+        "word": "have",
+        "speaker_tag": 1,
+        "start_time": 63.0,
+        "end_time": 63.1
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 63.1,
+        "end_time": 63.3
+    },
+    {
+        "word": "prior",
+        "speaker_tag": 1,
+        "start_time": 63.3,
+        "end_time": 63.6
+    },
+    {
+        "word": "conviction",
+        "speaker_tag": 1,
+        "start_time": 63.6,
+        "end_time": 63.9
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 63.9,
+        "end_time": 64.4
+    },
+    {
+        "word": "doesn't",
+        "speaker_tag": 1,
+        "start_time": 64.4,
+        "end_time": 65.0
+    },
+    {
+        "word": "allow",
+        "speaker_tag": 1,
+        "start_time": 65.0,
+        "end_time": 65.2
+    },
+    {
+        "word": "them",
+        "speaker_tag": 1,
+        "start_time": 65.2,
+        "end_time": 65.4
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 65.4,
+        "end_time": 65.5
+    },
+    {
+        "word": "get",
+        "speaker_tag": 1,
+        "start_time": 65.5,
+        "end_time": 65.6
+    },
+    {
+        "word": "employment",
+        "speaker_tag": 1,
+        "start_time": 65.6,
+        "end_time": 66.0
+    },
+    {
+        "word": "or",
+        "speaker_tag": 1,
+        "start_time": 66.0,
+        "end_time": 66.2
+    },
+    {
+        "word": "they",
+        "speaker_tag": 1,
+        "start_time": 66.2,
+        "end_time": 66.3
+    },
+    {
+        "word": "may",
+        "speaker_tag": 1,
+        "start_time": 66.3,
+        "end_time": 66.5
+    },
+    {
+        "word": "not",
+        "speaker_tag": 1,
+        "start_time": 66.5,
+        "end_time": 66.5
+    },
+    {
+        "word": "have",
+        "speaker_tag": 1,
+        "start_time": 66.5,
+        "end_time": 66.8
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 66.8,
+        "end_time": 66.9
+    },
+    {
+        "word": "education",
+        "speaker_tag": 1,
+        "start_time": 66.9,
+        "end_time": 67.1
+    },
+    {
+        "word": "necessary",
+        "speaker_tag": 1,
+        "start_time": 67.1,
+        "end_time": 67.6
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 67.6,
+        "end_time": 68.1
+    },
+    {
+        "word": "do",
+        "speaker_tag": 1,
+        "start_time": 68.1,
+        "end_time": 68.3
+    },
+    {
+        "word": "so",
+        "speaker_tag": 1,
+        "start_time": 68.3,
+        "end_time": 68.4
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 68.4,
+        "end_time": 68.8
+    },
+    {
+        "word": "therefore",
+        "speaker_tag": 1,
+        "start_time": 68.8,
+        "end_time": 69.3
+    },
+    {
+        "word": "they",
+        "speaker_tag": 1,
+        "start_time": 69.3,
+        "end_time": 69.4
+    },
+    {
+        "word": "enter",
+        "speaker_tag": 1,
+        "start_time": 69.4,
+        "end_time": 69.6
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 69.6,
+        "end_time": 70.4
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 70.4,
+        "end_time": 70.9
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 70.9,
+        "end_time": 71.0
+    },
+    {
+        "word": "more",
+        "speaker_tag": 1,
+        "start_time": 71.0,
+        "end_time": 71.3
+    },
+    {
+        "word": "John's",
+        "speaker_tag": 1,
+        "start_time": 71.3,
+        "end_time": 71.8
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 71.8,
+        "end_time": 71.9
+    },
+    {
+        "word": "Tim's",
+        "speaker_tag": 1,
+        "start_time": 71.9,
+        "end_time": 72.2
+    },
+    {
+        "word": "not",
+        "speaker_tag": 1,
+        "start_time": 72.2,
+        "end_time": 72.9
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 72.9,
+        "end_time": 73.1
+    },
+    {
+        "word": "believe",
+        "speaker_tag": 1,
+        "start_time": 73.1,
+        "end_time": 73.2
+    },
+    {
+        "word": "this",
+        "speaker_tag": 1,
+        "start_time": 73.2,
+        "end_time": 73.9
+    },
+    {
+        "word": "can",
+        "speaker_tag": 1,
+        "start_time": 73.9,
+        "end_time": 74.1
+    },
+    {
+        "word": "range",
+        "speaker_tag": 1,
+        "start_time": 74.1,
+        "end_time": 74.4
+    },
+    {
+        "word": "from",
+        "speaker_tag": 1,
+        "start_time": 74.4,
+        "end_time": 74.6
+    },
+    {
+        "word": "physical",
+        "speaker_tag": 1,
+        "start_time": 74.6,
+        "end_time": 75.4
+    },
+    {
+        "word": "abuse",
+        "speaker_tag": 1,
+        "start_time": 75.4,
+        "end_time": 75.9
+    },
+    {
+        "word": "being",
+        "speaker_tag": 1,
+        "start_time": 75.9,
+        "end_time": 76.1
+    },
+    {
+        "word": "done",
+        "speaker_tag": 1,
+        "start_time": 76.1,
+        "end_time": 76.4
+    },
+    {
+        "word": "against",
+        "speaker_tag": 1,
+        "start_time": 76.4,
+        "end_time": 76.7
+    },
+    {
+        "word": "prostitute",
+        "speaker_tag": 1,
+        "start_time": 76.7,
+        "end_time": 77.3
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 77.3,
+        "end_time": 77.5
+    },
+    {
+        "word": "process",
+        "speaker_tag": 1,
+        "start_time": 77.5,
+        "end_time": 77.9
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 77.9,
+        "end_time": 77.9
+    },
+    {
+        "word": "being",
+        "speaker_tag": 1,
+        "start_time": 77.9,
+        "end_time": 78.3
+    },
+    {
+        "word": "not",
+        "speaker_tag": 1,
+        "start_time": 78.3,
+        "end_time": 79.2
+    },
+    {
+        "word": "being",
+        "speaker_tag": 1,
+        "start_time": 79.2,
+        "end_time": 79.4
+    },
+    {
+        "word": "paid",
+        "speaker_tag": 1,
+        "start_time": 79.4,
+        "end_time": 79.8
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 79.8,
+        "end_time": 80.0
+    },
+    {
+        "word": "their",
+        "speaker_tag": 1,
+        "start_time": 80.0,
+        "end_time": 80.1
+    },
+    {
+        "word": "services",
+        "speaker_tag": 1,
+        "start_time": 80.1,
+        "end_time": 80.2
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 80.2,
+        "end_time": 81.1
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 81.1,
+        "end_time": 81.4
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 81.4,
+        "end_time": 81.5
+    },
+    {
+        "word": "legalization",
+        "speaker_tag": 1,
+        "start_time": 81.5,
+        "end_time": 81.9
+    },
+    {
+        "word": "going",
+        "speaker_tag": 1,
+        "start_time": 81.9,
+        "end_time": 82.5
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 82.5,
+        "end_time": 82.6
+    },
+    {
+        "word": "do",
+        "speaker_tag": 1,
+        "start_time": 82.6,
+        "end_time": 82.7
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 82.7,
+        "end_time": 82.8
+    },
+    {
+        "word": "few",
+        "speaker_tag": 1,
+        "start_time": 82.8,
+        "end_time": 82.8
+    },
+    {
+        "word": "things",
+        "speaker_tag": 1,
+        "start_time": 82.8,
+        "end_time": 83.1
+    },
+    {
+        "word": "personally",
+        "speaker_tag": 1,
+        "start_time": 83.1,
+        "end_time": 84.1
+    },
+    {
+        "word": "it",
+        "speaker_tag": 1,
+        "start_time": 84.1,
+        "end_time": 84.5
+    },
+    {
+        "word": "increases",
+        "speaker_tag": 1,
+        "start_time": 84.5,
+        "end_time": 85.0
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 85.0,
+        "end_time": 85.2
+    },
+    {
+        "word": "incentive",
+        "speaker_tag": 1,
+        "start_time": 85.2,
+        "end_time": 85.7
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 85.7,
+        "end_time": 85.8
+    },
+    {
+        "word": "people",
+        "speaker_tag": 1,
+        "start_time": 85.8,
+        "end_time": 86.0
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 86.0,
+        "end_time": 86.6
+    },
+    {
+        "word": "enter",
+        "speaker_tag": 1,
+        "start_time": 86.6,
+        "end_time": 86.7
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 86.7,
+        "end_time": 87.0
+    },
+    {
+        "word": "business",
+        "speaker_tag": 1,
+        "start_time": 87.0,
+        "end_time": 87.3
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 87.3,
+        "end_time": 87.6
+    },
+    {
+        "word": "therefore",
+        "speaker_tag": 1,
+        "start_time": 87.6,
+        "end_time": 87.9
+    },
+    {
+        "word": "just",
+        "speaker_tag": 1,
+        "start_time": 87.9,
+        "end_time": 88.8
+    },
+    {
+        "word": "without",
+        "speaker_tag": 1,
+        "start_time": 88.8,
+        "end_time": 89.1
+    },
+    {
+        "word": "any",
+        "speaker_tag": 1,
+        "start_time": 89.1,
+        "end_time": 89.3
+    },
+    {
+        "word": "other",
+        "speaker_tag": 1,
+        "start_time": 89.3,
+        "end_time": 89.4
+    },
+    {
+        "word": "changes",
+        "speaker_tag": 1,
+        "start_time": 89.4,
+        "end_time": 90.0
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 90.0,
+        "end_time": 90.3
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 90.3,
+        "end_time": 90.4
+    },
+    {
+        "word": "structure",
+        "speaker_tag": 1,
+        "start_time": 90.4,
+        "end_time": 90.9
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 90.9,
+        "end_time": 91.0
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 91.0,
+        "end_time": 91.6
+    },
+    {
+        "word": "itself",
+        "speaker_tag": 1,
+        "start_time": 91.6,
+        "end_time": 91.8
+    },
+    {
+        "word": "it's",
+        "speaker_tag": 1,
+        "start_time": 91.8,
+        "end_time": 92.5
+    },
+    {
+        "word": "more",
+        "speaker_tag": 1,
+        "start_time": 92.5,
+        "end_time": 92.7
+    },
+    {
+        "word": "likely",
+        "speaker_tag": 1,
+        "start_time": 92.7,
+        "end_time": 93.0
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 93.0,
+        "end_time": 93.1
+    },
+    {
+        "word": "increase",
+        "speaker_tag": 1,
+        "start_time": 93.1,
+        "end_time": 93.6
+    },
+    {
+        "word": "those",
+        "speaker_tag": 1,
+        "start_time": 93.6,
+        "end_time": 94.3
+    },
+    {
+        "word": "harms",
+        "speaker_tag": 1,
+        "start_time": 94.3,
+        "end_time": 94.6
+    },
+    {
+        "word": "as",
+        "speaker_tag": 1,
+        "start_time": 94.6,
+        "end_time": 94.8
+    },
+    {
+        "word": "well",
+        "speaker_tag": 1,
+        "start_time": 94.8,
+        "end_time": 94.9
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 94.9,
+        "end_time": 95.2
+    },
+    {
+        "word": "also",
+        "speaker_tag": 1,
+        "start_time": 95.2,
+        "end_time": 95.4
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 95.4,
+        "end_time": 95.6
+    },
+    {
+        "word": "it",
+        "speaker_tag": 1,
+        "start_time": 95.6,
+        "end_time": 96.1
+    },
+    {
+        "word": "makes",
+        "speaker_tag": 1,
+        "start_time": 96.1,
+        "end_time": 96.3
+    },
+    {
+        "word": "it",
+        "speaker_tag": 1,
+        "start_time": 96.3,
+        "end_time": 96.3
+    },
+    {
+        "word": "harder",
+        "speaker_tag": 1,
+        "start_time": 96.3,
+        "end_time": 96.9
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 96.9,
+        "end_time": 97.0
+    },
+    {
+        "word": "punishment",
+        "speaker_tag": 1,
+        "start_time": 97.0,
+        "end_time": 97.5
+    },
+    {
+        "word": "legalize",
+        "speaker_tag": 1,
+        "start_time": 97.5,
+        "end_time": 99.2
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 99.2,
+        "end_time": 99.3
+    },
+    {
+        "word": "you",
+        "speaker_tag": 1,
+        "start_time": 99.3,
+        "end_time": 100.4
+    },
+    {
+        "word": "make",
+        "speaker_tag": 1,
+        "start_time": 100.4,
+        "end_time": 100.5
+    },
+    {
+        "word": "it",
+        "speaker_tag": 1,
+        "start_time": 100.5,
+        "end_time": 100.7
+    },
+    {
+        "word": "harder",
+        "speaker_tag": 1,
+        "start_time": 100.7,
+        "end_time": 101.1
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 101.1,
+        "end_time": 101.1
+    },
+    {
+        "word": "women",
+        "speaker_tag": 1,
+        "start_time": 101.1,
+        "end_time": 101.4
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 101.4,
+        "end_time": 101.6
+    },
+    {
+        "word": "go",
+        "speaker_tag": 1,
+        "start_time": 101.6,
+        "end_time": 101.8
+    },
+    {
+        "word": "against",
+        "speaker_tag": 1,
+        "start_time": 101.8,
+        "end_time": 102.2
+    },
+    {
+        "word": "these",
+        "speaker_tag": 1,
+        "start_time": 102.2,
+        "end_time": 102.4
+    },
+    {
+        "word": "people",
+        "speaker_tag": 1,
+        "start_time": 102.4,
+        "end_time": 102.4
+    },
+    {
+        "word": "because",
+        "speaker_tag": 1,
+        "start_time": 102.4,
+        "end_time": 102.8
+    },
+    {
+        "word": "there's",
+        "speaker_tag": 1,
+        "start_time": 102.8,
+        "end_time": 103.0
+    },
+    {
+        "word": "already",
+        "speaker_tag": 1,
+        "start_time": 103.0,
+        "end_time": 103.1
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 103.1,
+        "end_time": 103.3
+    },
+    {
+        "word": "stigma",
+        "speaker_tag": 1,
+        "start_time": 103.3,
+        "end_time": 103.7
+    },
+    {
+        "word": "it's",
+        "speaker_tag": 1,
+        "start_time": 103.7,
+        "end_time": 105.0
+    },
+    {
+        "word": "more",
+        "speaker_tag": 1,
+        "start_time": 105.0,
+        "end_time": 105.2
+    },
+    {
+        "word": "difficult",
+        "speaker_tag": 1,
+        "start_time": 105.2,
+        "end_time": 105.3
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 105.3,
+        "end_time": 105.7
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 105.7,
+        "end_time": 105.8
+    },
+    {
+        "word": "woman",
+        "speaker_tag": 1,
+        "start_time": 105.8,
+        "end_time": 105.8
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 105.8,
+        "end_time": 106.4
+    },
+    {
+        "word": "go",
+        "speaker_tag": 1,
+        "start_time": 106.4,
+        "end_time": 106.7
+    },
+    {
+        "word": "against",
+        "speaker_tag": 1,
+        "start_time": 106.7,
+        "end_time": 107.0
+    },
+    {
+        "word": "their",
+        "speaker_tag": 1,
+        "start_time": 107.0,
+        "end_time": 107.3
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 107.3,
+        "end_time": 107.5
+    },
+    {
+        "word": "go",
+        "speaker_tag": 1,
+        "start_time": 107.5,
+        "end_time": 107.7
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 107.7,
+        "end_time": 108.2
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 108.2,
+        "end_time": 108.3
+    },
+    {
+        "word": "police",
+        "speaker_tag": 1,
+        "start_time": 108.3,
+        "end_time": 108.5
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 108.5,
+        "end_time": 108.8
+    },
+    {
+        "word": "say",
+        "speaker_tag": 1,
+        "start_time": 108.8,
+        "end_time": 109.0
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 109.0,
+        "end_time": 109.6
+    },
+    {
+        "word": "person",
+        "speaker_tag": 1,
+        "start_time": 109.6,
+        "end_time": 110.0
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 110.0,
+        "end_time": 110.1
+    },
+    {
+        "word": "I",
+        "speaker_tag": 1,
+        "start_time": 110.1,
+        "end_time": 110.3
+    },
+    {
+        "word": "was",
+        "speaker_tag": 1,
+        "start_time": 110.3,
+        "end_time": 110.5
+    },
+    {
+        "word": "being",
+        "speaker_tag": 1,
+        "start_time": 110.5,
+        "end_time": 111.0
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 111.0,
+        "end_time": 111.1
+    },
+    {
+        "word": "product",
+        "speaker_tag": 1,
+        "start_time": 111.1,
+        "end_time": 111.3
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 111.3,
+        "end_time": 111.6
+    },
+    {
+        "word": "John",
+        "speaker_tag": 1,
+        "start_time": 111.6,
+        "end_time": 112.0
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 112.0,
+        "end_time": 112.2
+    },
+    {
+        "word": "I",
+        "speaker_tag": 1,
+        "start_time": 112.2,
+        "end_time": 112.3
+    },
+    {
+        "word": "had",
+        "speaker_tag": 1,
+        "start_time": 112.3,
+        "end_time": 112.7
+    },
+    {
+        "word": "me",
+        "speaker_tag": 1,
+        "start_time": 112.7,
+        "end_time": 113.3
+    },
+    {
+        "word": "or",
+        "speaker_tag": 1,
+        "start_time": 113.3,
+        "end_time": 113.4
+    },
+    {
+        "word": "JPay",
+        "speaker_tag": 1,
+        "start_time": 113.4,
+        "end_time": 113.7
+    },
+    {
+        "word": "me",
+        "speaker_tag": 1,
+        "start_time": 113.7,
+        "end_time": 113.9
+    },
+    {
+        "word": "or",
+        "speaker_tag": 1,
+        "start_time": 113.9,
+        "end_time": 114.0
+    },
+    {
+        "word": "do",
+        "speaker_tag": 1,
+        "start_time": 114.0,
+        "end_time": 114.2
+    },
+    {
+        "word": "these",
+        "speaker_tag": 1,
+        "start_time": 114.2,
+        "end_time": 114.3
+    },
+    {
+        "word": "type",
+        "speaker_tag": 1,
+        "start_time": 114.3,
+        "end_time": 114.6
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 114.6,
+        "end_time": 114.7
+    },
+    {
+        "word": "things",
+        "speaker_tag": 1,
+        "start_time": 114.7,
+        "end_time": 114.8
+    },
+    {
+        "word": "against",
+        "speaker_tag": 1,
+        "start_time": 114.8,
+        "end_time": 116.7
+    },
+    {
+        "word": "those",
+        "speaker_tag": 1,
+        "start_time": 116.7,
+        "end_time": 116.8
+    },
+    {
+        "word": "people",
+        "speaker_tag": 1,
+        "start_time": 116.8,
+        "end_time": 117.3
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 117.3,
+        "end_time": 117.7
+    },
+    {
+        "word": "now",
+        "speaker_tag": 1,
+        "start_time": 117.7,
+        "end_time": 117.9
+    },
+    {
+        "word": "if",
+        "speaker_tag": 1,
+        "start_time": 117.9,
+        "end_time": 118.0
+    },
+    {
+        "word": "they",
+        "speaker_tag": 1,
+        "start_time": 118.0,
+        "end_time": 118.2
+    },
+    {
+        "word": "go",
+        "speaker_tag": 1,
+        "start_time": 118.2,
+        "end_time": 118.3
+    },
+    {
+        "word": "forward",
+        "speaker_tag": 1,
+        "start_time": 118.3,
+        "end_time": 118.7
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 118.7,
+        "end_time": 118.8
+    },
+    {
+        "word": "ask",
+        "speaker_tag": 1,
+        "start_time": 118.8,
+        "end_time": 119.1
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 119.1,
+        "end_time": 119.4
+    },
+    {
+        "word": "some",
+        "speaker_tag": 1,
+        "start_time": 119.4,
+        "end_time": 119.5
+    },
+    {
+        "word": "sort",
+        "speaker_tag": 1,
+        "start_time": 119.5,
+        "end_time": 119.7
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 119.7,
+        "end_time": 119.8
+    },
+    {
+        "word": "relief",
+        "speaker_tag": 1,
+        "start_time": 119.8,
+        "end_time": 120.2
+    },
+    {
+        "word": "they're",
+        "speaker_tag": 1,
+        "start_time": 120.3,
+        "end_time": 120.6
+    },
+    {
+        "word": "only",
+        "speaker_tag": 1,
+        "start_time": 120.6,
+        "end_time": 120.8
+    },
+    {
+        "word": "going",
+        "speaker_tag": 1,
+        "start_time": 120.8,
+        "end_time": 121.0
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 121.0,
+        "end_time": 121.1
+    },
+    {
+        "word": "be",
+        "speaker_tag": 1,
+        "start_time": 121.1,
+        "end_time": 121.2
+    },
+    {
+        "word": "viewed",
+        "speaker_tag": 1,
+        "start_time": 121.2,
+        "end_time": 121.4
+    },
+    {
+        "word": "as",
+        "speaker_tag": 1,
+        "start_time": 121.4,
+        "end_time": 121.7
+    },
+    {
+        "word": "having",
+        "speaker_tag": 1,
+        "start_time": 121.7,
+        "end_time": 121.8
+    },
+    {
+        "word": "some",
+        "speaker_tag": 1,
+        "start_time": 121.8,
+        "end_time": 122.3
+    },
+    {
+        "word": "sort",
+        "speaker_tag": 1,
+        "start_time": 122.3,
+        "end_time": 122.5
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 122.5,
+        "end_time": 122.6
+    },
+    {
+        "word": "casualty",
+        "speaker_tag": 1,
+        "start_time": 122.6,
+        "end_time": 123.3
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 123.3,
+        "end_time": 123.3
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 123.3,
+        "end_time": 123.4
+    },
+    {
+        "word": "job",
+        "speaker_tag": 1,
+        "start_time": 123.4,
+        "end_time": 124.4
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 124.4,
+        "end_time": 124.5
+    },
+    {
+        "word": "not",
+        "speaker_tag": 1,
+        "start_time": 124.5,
+        "end_time": 125.1
+    },
+    {
+        "word": "being",
+        "speaker_tag": 1,
+        "start_time": 125.1,
+        "end_time": 125.3
+    },
+    {
+        "word": "paid",
+        "speaker_tag": 1,
+        "start_time": 125.3,
+        "end_time": 125.6
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 125.6,
+        "end_time": 125.8
+    },
+    {
+        "word": "being",
+        "speaker_tag": 1,
+        "start_time": 125.8,
+        "end_time": 125.9
+    },
+    {
+        "word": "abused",
+        "speaker_tag": 1,
+        "start_time": 125.9,
+        "end_time": 126.2
+    },
+    {
+        "word": "as",
+        "speaker_tag": 1,
+        "start_time": 126.2,
+        "end_time": 126.5
+    },
+    {
+        "word": "part",
+        "speaker_tag": 1,
+        "start_time": 126.5,
+        "end_time": 126.8
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 126.8,
+        "end_time": 126.8
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 126.8,
+        "end_time": 126.9
+    },
+    {
+        "word": "job",
+        "speaker_tag": 1,
+        "start_time": 126.9,
+        "end_time": 127.1
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 127.1,
+        "end_time": 127.2
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 127.2,
+        "end_time": 127.9
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 127.9,
+        "end_time": 128.3
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 128.3,
+        "end_time": 128.5
+    },
+    {
+        "word": "it's",
+        "speaker_tag": 1,
+        "start_time": 128.5,
+        "end_time": 128.6
+    },
+    {
+        "word": "also",
+        "speaker_tag": 1,
+        "start_time": 128.6,
+        "end_time": 128.8
+    },
+    {
+        "word": "unlikely",
+        "speaker_tag": 1,
+        "start_time": 128.8,
+        "end_time": 129.3
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 129.3,
+        "end_time": 129.6
+    },
+    {
+        "word": "drive",
+        "speaker_tag": 1,
+        "start_time": 129.6,
+        "end_time": 129.9
+    },
+    {
+        "word": "out",
+        "speaker_tag": 1,
+        "start_time": 129.9,
+        "end_time": 130.2
+    },
+    {
+        "word": "illicit",
+        "speaker_tag": 1,
+        "start_time": 130.2,
+        "end_time": 131.0
+    },
+    {
+        "word": "business",
+        "speaker_tag": 1,
+        "start_time": 131.0,
+        "end_time": 131.1
+    },
+    {
+        "word": "so",
+        "speaker_tag": 1,
+        "start_time": 131.1,
+        "end_time": 131.5
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 131.5,
+        "end_time": 132.0
+    },
+    {
+        "word": "drink",
+        "speaker_tag": 1,
+        "start_time": 132.0,
+        "end_time": 132.2
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 132.2,
+        "end_time": 132.8
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 132.8,
+        "end_time": 132.9
+    },
+    {
+        "word": "status",
+        "speaker_tag": 1,
+        "start_time": 132.9,
+        "end_time": 133.3
+    },
+    {
+        "word": "quo",
+        "speaker_tag": 1,
+        "start_time": 133.3,
+        "end_time": 133.4
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 133.4,
+        "end_time": 134.3
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 134.3,
+        "end_time": 134.4
+    },
+    {
+        "word": "obviously",
+        "speaker_tag": 1,
+        "start_time": 134.4,
+        "end_time": 134.9
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 134.9,
+        "end_time": 135.0
+    },
+    {
+        "word": "mostly",
+        "speaker_tag": 1,
+        "start_time": 135.0,
+        "end_time": 135.4
+    },
+    {
+        "word": "illicit",
+        "speaker_tag": 1,
+        "start_time": 135.4,
+        "end_time": 135.9
+    },
+    {
+        "word": "business",
+        "speaker_tag": 1,
+        "start_time": 135.9,
+        "end_time": 136.0
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 136.0,
+        "end_time": 136.4
+    },
+    {
+        "word": "mostly",
+        "speaker_tag": 1,
+        "start_time": 136.4,
+        "end_time": 136.6
+    },
+    {
+        "word": "done",
+        "speaker_tag": 1,
+        "start_time": 136.6,
+        "end_time": 137.0
+    },
+    {
+        "word": "underground",
+        "speaker_tag": 1,
+        "start_time": 137.0,
+        "end_time": 137.6
+    },
+    {
+        "word": "structures",
+        "speaker_tag": 1,
+        "start_time": 137.6,
+        "end_time": 138.9
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 138.9,
+        "end_time": 139.2
+    },
+    {
+        "word": "allow",
+        "speaker_tag": 1,
+        "start_time": 139.2,
+        "end_time": 139.8
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 139.8,
+        "end_time": 140.2
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 140.2,
+        "end_time": 140.3
+    },
+    {
+        "word": "type",
+        "speaker_tag": 1,
+        "start_time": 140.3,
+        "end_time": 140.6
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 140.6,
+        "end_time": 140.7
+    },
+    {
+        "word": "business",
+        "speaker_tag": 1,
+        "start_time": 140.7,
+        "end_time": 141.2
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 141.2,
+        "end_time": 141.3
+    },
+    {
+        "word": "exist",
+        "speaker_tag": 1,
+        "start_time": 141.3,
+        "end_time": 141.7
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 141.7,
+        "end_time": 141.8
+    },
+    {
+        "word": "black",
+        "speaker_tag": 1,
+        "start_time": 141.8,
+        "end_time": 142.1
+    },
+    {
+        "word": "market",
+        "speaker_tag": 1,
+        "start_time": 142.1,
+        "end_time": 142.4
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 142.4,
+        "end_time": 142.5
+    },
+    {
+        "word": "exist",
+        "speaker_tag": 1,
+        "start_time": 142.5,
+        "end_time": 143.0
+    },
+    {
+        "word": "aren't",
+        "speaker_tag": 1,
+        "start_time": 143.0,
+        "end_time": 143.5
+    },
+    {
+        "word": "undermined",
+        "speaker_tag": 1,
+        "start_time": 143.5,
+        "end_time": 144.2
+    },
+    {
+        "word": "by",
+        "speaker_tag": 1,
+        "start_time": 144.2,
+        "end_time": 144.5
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 144.5,
+        "end_time": 144.7
+    },
+    {
+        "word": "legalization",
+        "speaker_tag": 1,
+        "start_time": 144.7,
+        "end_time": 145.0
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 145.0,
+        "end_time": 145.4
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 145.4,
+        "end_time": 145.6
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 145.6,
+        "end_time": 146.3
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 146.3,
+        "end_time": 146.6
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 146.6,
+        "end_time": 146.6
+    },
+    {
+        "word": "there",
+        "speaker_tag": 1,
+        "start_time": 146.6,
+        "end_time": 146.8
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 146.8,
+        "end_time": 146.9
+    },
+    {
+        "word": "different",
+        "speaker_tag": 1,
+        "start_time": 146.9,
+        "end_time": 147.6
+    },
+    {
+        "word": "types",
+        "speaker_tag": 1,
+        "start_time": 147.6,
+        "end_time": 147.7
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 147.7,
+        "end_time": 148.1
+    },
+    {
+        "word": "there",
+        "speaker_tag": 1,
+        "start_time": 148.1,
+        "end_time": 148.7
+    },
+    {
+        "word": "different",
+        "speaker_tag": 1,
+        "start_time": 148.7,
+        "end_time": 149.0
+    },
+    {
+        "word": "levels",
+        "speaker_tag": 1,
+        "start_time": 149.0,
+        "end_time": 149.1
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 149.1,
+        "end_time": 149.5
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 149.5,
+        "end_time": 149.6
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 149.6,
+        "end_time": 150.1
+    },
+    {
+        "word": "Market",
+        "speaker_tag": 1,
+        "start_time": 150.1,
+        "end_time": 150.5
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 150.5,
+        "end_time": 150.7
+    },
+    {
+        "word": "exists",
+        "speaker_tag": 1,
+        "start_time": 150.7,
+        "end_time": 151.0
+    },
+    {
+        "word": "there",
+        "speaker_tag": 1,
+        "start_time": 151.0,
+        "end_time": 151.2
+    },
+    {
+        "word": "high",
+        "speaker_tag": 1,
+        "start_time": 151.2,
+        "end_time": 151.4
+    },
+    {
+        "word": "class",
+        "speaker_tag": 1,
+        "start_time": 151.4,
+        "end_time": 151.9
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 151.9,
+        "end_time": 152.3
+    },
+    {
+        "word": "there",
+        "speaker_tag": 1,
+        "start_time": 152.3,
+        "end_time": 152.4
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 152.4,
+        "end_time": 152.5
+    },
+    {
+        "word": "street",
+        "speaker_tag": 1,
+        "start_time": 152.5,
+        "end_time": 152.9
+    },
+    {
+        "word": "prostitutes",
+        "speaker_tag": 1,
+        "start_time": 152.9,
+        "end_time": 153.5
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 153.5,
+        "end_time": 153.8
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 153.8,
+        "end_time": 154.0
+    },
+    {
+        "word": "don't",
+        "speaker_tag": 1,
+        "start_time": 154.0,
+        "end_time": 154.1
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 154.1,
+        "end_time": 154.2
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 154.2,
+        "end_time": 154.4
+    },
+    {
+        "word": "legalization",
+        "speaker_tag": 1,
+        "start_time": 154.4,
+        "end_time": 154.9
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 154.9,
+        "end_time": 155.4
+    },
+    {
+        "word": "going",
+        "speaker_tag": 1,
+        "start_time": 155.4,
+        "end_time": 155.6
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 155.6,
+        "end_time": 155.8
+    },
+    {
+        "word": "alleviate",
+        "speaker_tag": 1,
+        "start_time": 155.8,
+        "end_time": 156.9
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 156.9,
+        "end_time": 157.0
+    },
+    {
+        "word": "guard",
+        "speaker_tag": 1,
+        "start_time": 157.0,
+        "end_time": 157.6
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 157.6,
+        "end_time": 157.7
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 157.7,
+        "end_time": 157.7
+    },
+    {
+        "word": "illicit",
+        "speaker_tag": 1,
+        "start_time": 157.7,
+        "end_time": 158.3
+    },
+    {
+        "word": "street-level",
+        "speaker_tag": 1,
+        "start_time": 158.3,
+        "end_time": 158.8
+    },
+    {
+        "word": "markets",
+        "speaker_tag": 1,
+        "start_time": 158.8,
+        "end_time": 159.5
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 159.5,
+        "end_time": 159.8
+    },
+    {
+        "word": "exist",
+        "speaker_tag": 1,
+        "start_time": 159.8,
+        "end_time": 160.2
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 160.2,
+        "end_time": 160.3
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 160.3,
+        "end_time": 160.4
+    },
+    {
+        "word": "status",
+        "speaker_tag": 1,
+        "start_time": 160.4,
+        "end_time": 160.8
+    },
+    {
+        "word": "quo",
+        "speaker_tag": 1,
+        "start_time": 160.8,
+        "end_time": 160.8
+    },
+    {
+        "word": "because",
+        "speaker_tag": 1,
+        "start_time": 160.8,
+        "end_time": 161.2
+    },
+    {
+        "word": "most",
+        "speaker_tag": 1,
+        "start_time": 161.2,
+        "end_time": 161.5
+    },
+    {
+        "word": "people",
+        "speaker_tag": 1,
+        "start_time": 161.5,
+        "end_time": 161.6
+    },
+    {
+        "word": "simply",
+        "speaker_tag": 1,
+        "start_time": 161.6,
+        "end_time": 162.0
+    },
+    {
+        "word": "would",
+        "speaker_tag": 1,
+        "start_time": 162.0,
+        "end_time": 162.3
+    },
+    {
+        "word": "not",
+        "speaker_tag": 1,
+        "start_time": 162.3,
+        "end_time": 162.3
+    },
+    {
+        "word": "be",
+        "speaker_tag": 1,
+        "start_time": 162.3,
+        "end_time": 162.6
+    },
+    {
+        "word": "able",
+        "speaker_tag": 1,
+        "start_time": 162.6,
+        "end_time": 162.7
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 162.7,
+        "end_time": 162.8
+    },
+    {
+        "word": "access",
+        "speaker_tag": 1,
+        "start_time": 162.8,
+        "end_time": 163.2
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 163.2,
+        "end_time": 163.5
+    },
+    {
+        "word": "higher",
+        "speaker_tag": 1,
+        "start_time": 163.5,
+        "end_time": 163.8
+    },
+    {
+        "word": "end",
+        "speaker_tag": 1,
+        "start_time": 163.8,
+        "end_time": 164.0
+    },
+    {
+        "word": "market",
+        "speaker_tag": 1,
+        "start_time": 164.0,
+        "end_time": 164.5
+    },
+    {
+        "word": "so",
+        "speaker_tag": 1,
+        "start_time": 164.5,
+        "end_time": 164.9
+    },
+    {
+        "word": "what",
+        "speaker_tag": 1,
+        "start_time": 164.9,
+        "end_time": 165.6
+    },
+    {
+        "word": "do",
+        "speaker_tag": 1,
+        "start_time": 165.6,
+        "end_time": 165.6
+    },
+    {
+        "word": "you",
+        "speaker_tag": 1,
+        "start_time": 165.6,
+        "end_time": 165.7
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 165.7,
+        "end_time": 166.0
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 166.0,
+        "end_time": 166.5
+    },
+    {
+        "word": "more",
+        "speaker_tag": 1,
+        "start_time": 166.5,
+        "end_time": 166.6
+    },
+    {
+        "word": "likely",
+        "speaker_tag": 1,
+        "start_time": 166.6,
+        "end_time": 166.9
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 166.9,
+        "end_time": 167.1
+    },
+    {
+        "word": "occur",
+        "speaker_tag": 1,
+        "start_time": 167.1,
+        "end_time": 167.3
+    },
+    {
+        "word": "within",
+        "speaker_tag": 1,
+        "start_time": 167.3,
+        "end_time": 168.6
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 168.6,
+        "end_time": 168.8
+    },
+    {
+        "word": "you're",
+        "speaker_tag": 1,
+        "start_time": 168.8,
+        "end_time": 168.9
+    },
+    {
+        "word": "only",
+        "speaker_tag": 1,
+        "start_time": 168.9,
+        "end_time": 169.1
+    },
+    {
+        "word": "going",
+        "speaker_tag": 1,
+        "start_time": 169.1,
+        "end_time": 169.4
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 169.4,
+        "end_time": 169.4
+    },
+    {
+        "word": "perpetuate",
+        "speaker_tag": 1,
+        "start_time": 169.4,
+        "end_time": 170.0
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 170.0,
+        "end_time": 170.1
+    },
+    {
+        "word": "historical",
+        "speaker_tag": 1,
+        "start_time": 170.1,
+        "end_time": 170.6
+    },
+    {
+        "word": "practice",
+        "speaker_tag": 1,
+        "start_time": 170.6,
+        "end_time": 171.1
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 171.1,
+        "end_time": 171.5
+    },
+    {
+        "word": "objectifying",
+        "speaker_tag": 1,
+        "start_time": 171.5,
+        "end_time": 172.2
+    },
+    {
+        "word": "women",
+        "speaker_tag": 1,
+        "start_time": 172.2,
+        "end_time": 172.4
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 172.4,
+        "end_time": 172.8
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 172.8,
+        "end_time": 173.0
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 173.0,
+        "end_time": 173.1
+    },
+    {
+        "word": "while",
+        "speaker_tag": 1,
+        "start_time": 173.1,
+        "end_time": 173.3
+    },
+    {
+        "word": "women",
+        "speaker_tag": 1,
+        "start_time": 173.3,
+        "end_time": 173.6
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 173.6,
+        "end_time": 173.7
+    },
+    {
+        "word": "able",
+        "speaker_tag": 1,
+        "start_time": 173.7,
+        "end_time": 174.0
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 174.0,
+        "end_time": 174.1
+    },
+    {
+        "word": "choose",
+        "speaker_tag": 1,
+        "start_time": 174.1,
+        "end_time": 174.5
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 174.5,
+        "end_time": 175.2
+    },
+    {
+        "word": "sometimes",
+        "speaker_tag": 1,
+        "start_time": 175.2,
+        "end_time": 176.1
+    },
+    {
+        "word": "as",
+        "speaker_tag": 1,
+        "start_time": 176.1,
+        "end_time": 176.5
+    },
+    {
+        "word": "I",
+        "speaker_tag": 1,
+        "start_time": 176.5,
+        "end_time": 176.6
+    },
+    {
+        "word": "explained",
+        "speaker_tag": 1,
+        "start_time": 176.6,
+        "end_time": 177.0
+    },
+    {
+        "word": "its",
+        "speaker_tag": 1,
+        "start_time": 177.0,
+        "end_time": 177.2
+    },
+    {
+        "word": "large",
+        "speaker_tag": 1,
+        "start_time": 177.2,
+        "end_time": 177.6
+    },
+    {
+        "word": "be",
+        "speaker_tag": 1,
+        "start_time": 177.6,
+        "end_time": 177.7
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 177.7,
+        "end_time": 177.8
+    },
+    {
+        "word": "coerced",
+        "speaker_tag": 1,
+        "start_time": 177.8,
+        "end_time": 178.4
+    },
+    {
+        "word": "conviction",
+        "speaker_tag": 1,
+        "start_time": 178.4,
+        "end_time": 179.2
+    },
+    {
+        "word": "based",
+        "speaker_tag": 1,
+        "start_time": 179.2,
+        "end_time": 179.6
+    },
+    {
+        "word": "businesses",
+        "speaker_tag": 1,
+        "start_time": 179.6,
+        "end_time": 180.2
+    },
+    {
+        "word": "which",
+        "speaker_tag": 1,
+        "start_time": 180.3,
+        "end_time": 180.8
+    },
+    {
+        "word": "women",
+        "speaker_tag": 1,
+        "start_time": 180.8,
+        "end_time": 181.1
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 181.1,
+        "end_time": 181.1
+    },
+    {
+        "word": "coerced",
+        "speaker_tag": 1,
+        "start_time": 181.1,
+        "end_time": 181.5
+    },
+    {
+        "word": "into",
+        "speaker_tag": 1,
+        "start_time": 181.5,
+        "end_time": 181.6
+    },
+    {
+        "word": "answering",
+        "speaker_tag": 1,
+        "start_time": 181.6,
+        "end_time": 182.0
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 182.0,
+        "end_time": 182.6
+    },
+    {
+        "word": "it",
+        "speaker_tag": 1,
+        "start_time": 182.6,
+        "end_time": 182.8
+    },
+    {
+        "word": "only",
+        "speaker_tag": 1,
+        "start_time": 182.8,
+        "end_time": 182.9
+    },
+    {
+        "word": "perpetuates",
+        "speaker_tag": 1,
+        "start_time": 182.9,
+        "end_time": 183.7
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 183.7,
+        "end_time": 183.8
+    },
+    {
+        "word": "objectification",
+        "speaker_tag": 1,
+        "start_time": 183.8,
+        "end_time": 184.2
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 184.2,
+        "end_time": 184.7
+    },
+    {
+        "word": "women",
+        "speaker_tag": 1,
+        "start_time": 184.7,
+        "end_time": 184.8
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 184.8,
+        "end_time": 185.5
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 185.5,
+        "end_time": 185.6
+    },
+    {
+        "word": "use",
+        "speaker_tag": 1,
+        "start_time": 185.6,
+        "end_time": 185.8
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 185.8,
+        "end_time": 185.9
+    },
+    {
+        "word": "women",
+        "speaker_tag": 1,
+        "start_time": 185.9,
+        "end_time": 186.3
+    },
+    {
+        "word": "solely",
+        "speaker_tag": 1,
+        "start_time": 186.3,
+        "end_time": 186.9
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 186.9,
+        "end_time": 187.0
+    },
+    {
+        "word": "their",
+        "speaker_tag": 1,
+        "start_time": 187.0,
+        "end_time": 187.1
+    },
+    {
+        "word": "bodies",
+        "speaker_tag": 1,
+        "start_time": 187.1,
+        "end_time": 187.5
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 187.5,
+        "end_time": 187.7
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 187.7,
+        "end_time": 187.9
+    },
+    {
+        "word": "this",
+        "speaker_tag": 1,
+        "start_time": 187.9,
+        "end_time": 188.0
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 188.0,
+        "end_time": 188.2
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 188.2,
+        "end_time": 188.3
+    },
+    {
+        "word": "historical",
+        "speaker_tag": 1,
+        "start_time": 188.3,
+        "end_time": 188.9
+    },
+    {
+        "word": "pattern",
+        "speaker_tag": 1,
+        "start_time": 188.9,
+        "end_time": 189.3
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 189.3,
+        "end_time": 189.4
+    },
+    {
+        "word": "exists",
+        "speaker_tag": 1,
+        "start_time": 189.4,
+        "end_time": 189.8
+    },
+    {
+        "word": "throughout",
+        "speaker_tag": 1,
+        "start_time": 189.8,
+        "end_time": 190.3
+    },
+    {
+        "word": "western",
+        "speaker_tag": 1,
+        "start_time": 190.3,
+        "end_time": 190.8
+    },
+    {
+        "word": "eastern",
+        "speaker_tag": 1,
+        "start_time": 190.8,
+        "end_time": 191.3
+    },
+    {
+        "word": "all",
+        "speaker_tag": 1,
+        "start_time": 191.3,
+        "end_time": 192.0
+    },
+    {
+        "word": "cultures",
+        "speaker_tag": 1,
+        "start_time": 192.0,
+        "end_time": 192.5
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 192.5,
+        "end_time": 192.7
+    },
+    {
+        "word": "don't",
+        "speaker_tag": 1,
+        "start_time": 192.7,
+        "end_time": 193.0
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 193.0,
+        "end_time": 193.1
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 193.1,
+        "end_time": 193.3
+    },
+    {
+        "word": "legalization",
+        "speaker_tag": 1,
+        "start_time": 193.3,
+        "end_time": 193.8
+    },
+    {
+        "word": "makes",
+        "speaker_tag": 1,
+        "start_time": 193.8,
+        "end_time": 194.8
+    },
+    {
+        "word": "it",
+        "speaker_tag": 1,
+        "start_time": 194.8,
+        "end_time": 194.9
+    },
+    {
+        "word": "any",
+        "speaker_tag": 1,
+        "start_time": 194.9,
+        "end_time": 195.0
+    },
+    {
+        "word": "less",
+        "speaker_tag": 1,
+        "start_time": 195.0,
+        "end_time": 195.2
+    },
+    {
+        "word": "likely",
+        "speaker_tag": 1,
+        "start_time": 195.2,
+        "end_time": 195.7
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 195.7,
+        "end_time": 195.9
+    },
+    {
+        "word": "this",
+        "speaker_tag": 1,
+        "start_time": 195.9,
+        "end_time": 196.2
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 196.2,
+        "end_time": 196.4
+    },
+    {
+        "word": "going",
+        "speaker_tag": 1,
+        "start_time": 196.4,
+        "end_time": 196.5
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 196.5,
+        "end_time": 196.7
+    },
+    {
+        "word": "end",
+        "speaker_tag": 1,
+        "start_time": 196.7,
+        "end_time": 197.4
+    },
+    {
+        "word": "makes",
+        "speaker_tag": 1,
+        "start_time": 197.4,
+        "end_time": 197.6
+    },
+    {
+        "word": "it",
+        "speaker_tag": 1,
+        "start_time": 197.6,
+        "end_time": 197.6
+    },
+    {
+        "word": "any",
+        "speaker_tag": 1,
+        "start_time": 197.6,
+        "end_time": 197.8
+    },
+    {
+        "word": "more",
+        "speaker_tag": 1,
+        "start_time": 197.8,
+        "end_time": 198.1
+    },
+    {
+        "word": "likely",
+        "speaker_tag": 1,
+        "start_time": 198.1,
+        "end_time": 198.2
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 198.2,
+        "end_time": 198.9
+    },
+    {
+        "word": "this",
+        "speaker_tag": 1,
+        "start_time": 198.9,
+        "end_time": 199.0
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 199.0,
+        "end_time": 199.2
+    },
+    {
+        "word": "going",
+        "speaker_tag": 1,
+        "start_time": 199.2,
+        "end_time": 199.3
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 199.3,
+        "end_time": 199.5
+    },
+    {
+        "word": "stop",
+        "speaker_tag": 1,
+        "start_time": 199.5,
+        "end_time": 199.9
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 199.9,
+        "end_time": 200.0
+    },
+    {
+        "word": "ask",
+        "speaker_tag": 1,
+        "start_time": 200.0,
+        "end_time": 200.2
+    },
+    {
+        "word": "such",
+        "speaker_tag": 1,
+        "start_time": 200.2,
+        "end_time": 200.7
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 200.7,
+        "end_time": 201.0
+    },
+    {
+        "word": "can",
+        "speaker_tag": 1,
+        "start_time": 201.0,
+        "end_time": 201.2
+    },
+    {
+        "word": "get",
+        "speaker_tag": 1,
+        "start_time": 201.2,
+        "end_time": 201.3
+    },
+    {
+        "word": "some",
+        "speaker_tag": 1,
+        "start_time": 201.3,
+        "end_time": 201.4
+    },
+    {
+        "word": "clean",
+        "speaker_tag": 1,
+        "start_time": 201.4,
+        "end_time": 201.6
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 201.6,
+        "end_time": 201.7
+    },
+    {
+        "word": "case",
+        "speaker_tag": 1,
+        "start_time": 201.7,
+        "end_time": 202.0
+    },
+    {
+        "word": "legalized",
+        "speaker_tag": 1,
+        "start_time": 202.0,
+        "end_time": 203.4
+    },
+    {
+        "word": "you",
+        "speaker_tag": 1,
+        "start_time": 203.4,
+        "end_time": 203.7
+    },
+    {
+        "word": "continue",
+        "speaker_tag": 1,
+        "start_time": 203.7,
+        "end_time": 204.3
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 204.3,
+        "end_time": 204.4
+    },
+    {
+        "word": "perpetuate",
+        "speaker_tag": 1,
+        "start_time": 204.4,
+        "end_time": 204.7
+    },
+    {
+        "word": "patriarchal",
+        "speaker_tag": 1,
+        "start_time": 204.7,
+        "end_time": 205.4
+    },
+    {
+        "word": "ideas",
+        "speaker_tag": 1,
+        "start_time": 205.4,
+        "end_time": 206.3
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 206.3,
+        "end_time": 206.7
+    },
+    {
+        "word": "objectification",
+        "speaker_tag": 1,
+        "start_time": 206.7,
+        "end_time": 207.3
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 207.3,
+        "end_time": 208.1
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 208.1,
+        "end_time": 208.2
+    },
+    {
+        "word": "hyper-sexualization",
+        "speaker_tag": 1,
+        "start_time": 208.2,
+        "end_time": 209.2
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 209.2,
+        "end_time": 209.6
+    },
+    {
+        "word": "women",
+        "speaker_tag": 1,
+        "start_time": 209.6,
+        "end_time": 210.0
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 210.0,
+        "end_time": 210.4
+    },
+    {
+        "word": "think",
+        "speaker_tag": 1,
+        "start_time": 210.4,
+        "end_time": 210.6
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 210.6,
+        "end_time": 210.6
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 210.6,
+        "end_time": 210.9
+    },
+    {
+        "word": "better",
+        "speaker_tag": 1,
+        "start_time": 210.9,
+        "end_time": 211.2
+    },
+    {
+        "word": "Avenue",
+        "speaker_tag": 1,
+        "start_time": 211.2,
+        "end_time": 211.6
+    },
+    {
+        "word": "would",
+        "speaker_tag": 1,
+        "start_time": 211.6,
+        "end_time": 211.7
+    },
+    {
+        "word": "be",
+        "speaker_tag": 1,
+        "start_time": 211.7,
+        "end_time": 211.9
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 211.9,
+        "end_time": 212.3
+    },
+    {
+        "word": "increase",
+        "speaker_tag": 1,
+        "start_time": 212.3,
+        "end_time": 212.5
+    },
+    {
+        "word": "protections",
+        "speaker_tag": 1,
+        "start_time": 212.5,
+        "end_time": 213.5
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 213.5,
+        "end_time": 213.6
+    },
+    {
+        "word": "prostitute",
+        "speaker_tag": 1,
+        "start_time": 213.6,
+        "end_time": 214.3
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 214.3,
+        "end_time": 214.5
+    },
+    {
+        "word": "create",
+        "speaker_tag": 1,
+        "start_time": 214.5,
+        "end_time": 214.8
+    },
+    {
+        "word": "laws",
+        "speaker_tag": 1,
+        "start_time": 214.8,
+        "end_time": 215.0
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 215.0,
+        "end_time": 215.4
+    },
+    {
+        "word": "punish",
+        "speaker_tag": 1,
+        "start_time": 215.4,
+        "end_time": 215.9
+    },
+    {
+        "word": "John's",
+        "speaker_tag": 1,
+        "start_time": 215.9,
+        "end_time": 216.6
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 216.6,
+        "end_time": 216.7
+    },
+    {
+        "word": "punish",
+        "speaker_tag": 1,
+        "start_time": 216.7,
+        "end_time": 217.0
+    },
+    {
+        "word": "pins",
+        "speaker_tag": 1,
+        "start_time": 217.0,
+        "end_time": 217.4
+    },
+    {
+        "word": "but",
+        "speaker_tag": 1,
+        "start_time": 217.4,
+        "end_time": 217.6
+    },
+    {
+        "word": "don't",
+        "speaker_tag": 1,
+        "start_time": 217.6,
+        "end_time": 217.9
+    },
+    {
+        "word": "punish",
+        "speaker_tag": 1,
+        "start_time": 217.9,
+        "end_time": 218.2
+    },
+    {
+        "word": "prostitute",
+        "speaker_tag": 1,
+        "start_time": 218.2,
+        "end_time": 218.9
+    },
+    {
+        "word": "because",
+        "speaker_tag": 1,
+        "start_time": 218.9,
+        "end_time": 219.0
+    },
+    {
+        "word": "this",
+        "speaker_tag": 1,
+        "start_time": 219.0,
+        "end_time": 219.4
+    },
+    {
+        "word": "ensures",
+        "speaker_tag": 1,
+        "start_time": 219.4,
+        "end_time": 219.8
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 219.8,
+        "end_time": 220.1
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 220.1,
+        "end_time": 220.4
+    },
+    {
+        "word": "horse",
+        "speaker_tag": 1,
+        "start_time": 220.4,
+        "end_time": 220.8
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 220.8,
+        "end_time": 220.9
+    },
+    {
+        "word": "structures",
+        "speaker_tag": 1,
+        "start_time": 220.9,
+        "end_time": 221.5
+    },
+    {
+        "word": "that",
+        "speaker_tag": 1,
+        "start_time": 221.5,
+        "end_time": 221.7
+    },
+    {
+        "word": "Abused",
+        "speaker_tag": 1,
+        "start_time": 221.7,
+        "end_time": 222.9
+    },
+    {
+        "word": "Women",
+        "speaker_tag": 1,
+        "start_time": 222.9,
+        "end_time": 223.0
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 223.0,
+        "end_time": 223.3
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 223.3,
+        "end_time": 223.4
+    },
+    {
+        "word": "status",
+        "speaker_tag": 1,
+        "start_time": 223.4,
+        "end_time": 223.8
+    },
+    {
+        "word": "quo",
+        "speaker_tag": 1,
+        "start_time": 223.8,
+        "end_time": 223.8
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 223.8,
+        "end_time": 224.8
+    },
+    {
+        "word": "able",
+        "speaker_tag": 1,
+        "start_time": 224.8,
+        "end_time": 225.2
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 225.2,
+        "end_time": 225.3
+    },
+    {
+        "word": "be",
+        "speaker_tag": 1,
+        "start_time": 225.3,
+        "end_time": 225.4
+    },
+    {
+        "word": "legislated",
+        "speaker_tag": 1,
+        "start_time": 225.4,
+        "end_time": 226.0
+    },
+    {
+        "word": "against",
+        "speaker_tag": 1,
+        "start_time": 226.0,
+        "end_time": 226.4
+    },
+    {
+        "word": "they",
+        "speaker_tag": 1,
+        "start_time": 226.4,
+        "end_time": 226.5
+    },
+    {
+        "word": "are",
+        "speaker_tag": 1,
+        "start_time": 226.5,
+        "end_time": 226.7
+    },
+    {
+        "word": "able",
+        "speaker_tag": 1,
+        "start_time": 226.7,
+        "end_time": 226.9
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 226.9,
+        "end_time": 227.3
+    },
+    {
+        "word": "be",
+        "speaker_tag": 1,
+        "start_time": 227.3,
+        "end_time": 227.4
+    },
+    {
+        "word": "struck",
+        "speaker_tag": 1,
+        "start_time": 227.4,
+        "end_time": 227.7
+    },
+    {
+        "word": "down",
+        "speaker_tag": 1,
+        "start_time": 227.7,
+        "end_time": 228.0
+    },
+    {
+        "word": "under",
+        "speaker_tag": 1,
+        "start_time": 228.0,
+        "end_time": 228.9
+    },
+    {
+        "word": "B",
+        "speaker_tag": 1,
+        "start_time": 228.9,
+        "end_time": 229.2
+    },
+    {
+        "word": "twice",
+        "speaker_tag": 1,
+        "start_time": 229.2,
+        "end_time": 229.2
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 229.2,
+        "end_time": 229.6
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 229.6,
+        "end_time": 229.8
+    },
+    {
+        "word": "market",
+        "speaker_tag": 1,
+        "start_time": 229.8,
+        "end_time": 230.2
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 230.2,
+        "end_time": 230.2
+    },
+    {
+        "word": "making",
+        "speaker_tag": 1,
+        "start_time": 230.2,
+        "end_time": 230.6
+    },
+    {
+        "word": "it",
+        "speaker_tag": 1,
+        "start_time": 230.6,
+        "end_time": 230.7
+    },
+    {
+        "word": "easier",
+        "speaker_tag": 1,
+        "start_time": 230.7,
+        "end_time": 231.1
+    },
+    {
+        "word": "for",
+        "speaker_tag": 1,
+        "start_time": 231.1,
+        "end_time": 231.2
+    },
+    {
+        "word": "people",
+        "speaker_tag": 1,
+        "start_time": 231.2,
+        "end_time": 231.3
+    },
+    {
+        "word": "to",
+        "speaker_tag": 1,
+        "start_time": 231.3,
+        "end_time": 231.6
+    },
+    {
+        "word": "do",
+        "speaker_tag": 1,
+        "start_time": 231.6,
+        "end_time": 231.8
+    },
+    {
+        "word": "these",
+        "speaker_tag": 1,
+        "start_time": 231.8,
+        "end_time": 231.9
+    },
+    {
+        "word": "types",
+        "speaker_tag": 1,
+        "start_time": 231.9,
+        "end_time": 232.3
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 232.3,
+        "end_time": 232.3
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 232.3,
+        "end_time": 232.6
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 232.6,
+        "end_time": 232.9
+    },
+    {
+        "word": "abuses",
+        "speaker_tag": 1,
+        "start_time": 232.9,
+        "end_time": 233.3
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 233.3,
+        "end_time": 233.9
+    },
+    {
+        "word": "broad",
+        "speaker_tag": 1,
+        "start_time": 233.9,
+        "end_time": 234.2
+    },
+    {
+        "word": "daylight",
+        "speaker_tag": 1,
+        "start_time": 234.2,
+        "end_time": 234.4
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 234.4,
+        "end_time": 235.0
+    },
+    {
+        "word": "increase",
+        "speaker_tag": 1,
+        "start_time": 235.0,
+        "end_time": 235.2
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 235.2,
+        "end_time": 235.6
+    },
+    {
+        "word": "the",
+        "speaker_tag": 1,
+        "start_time": 235.6,
+        "end_time": 235.6
+    },
+    {
+        "word": "objectification",
+        "speaker_tag": 1,
+        "start_time": 235.6,
+        "end_time": 236.1
+    },
+    {
+        "word": "of",
+        "speaker_tag": 1,
+        "start_time": 236.1,
+        "end_time": 236.6
+    },
+    {
+        "word": "women",
+        "speaker_tag": 1,
+        "start_time": 236.6,
+        "end_time": 236.7
+    },
+    {
+        "word": "which",
+        "speaker_tag": 1,
+        "start_time": 236.7,
+        "end_time": 237.3
+    },
+    {
+        "word": "is",
+        "speaker_tag": 1,
+        "start_time": 237.3,
+        "end_time": 237.4
+    },
+    {
+        "word": "already",
+        "speaker_tag": 1,
+        "start_time": 237.4,
+        "end_time": 237.6
+    },
+    {
+        "word": "a",
+        "speaker_tag": 1,
+        "start_time": 237.6,
+        "end_time": 237.9
+    },
+    {
+        "word": "problem",
+        "speaker_tag": 1,
+        "start_time": 237.9,
+        "end_time": 238.1
+    },
+    {
+        "word": "in",
+        "speaker_tag": 1,
+        "start_time": 238.1,
+        "end_time": 238.4
+    },
+    {
+        "word": "our",
+        "speaker_tag": 1,
+        "start_time": 238.4,
+        "end_time": 238.6
+    },
+    {
+        "word": "modern",
+        "speaker_tag": 1,
+        "start_time": 238.6,
+        "end_time": 238.8
+    },
+    {
+        "word": "society",
+        "speaker_tag": 1,
+        "start_time": 238.8,
+        "end_time": 239.1
+    },
+    {
+        "word": "and",
+        "speaker_tag": 1,
+        "start_time": 239.1,
+        "end_time": 239.8
+    },
+    {
+        "word": "Confused",
+        "speaker_tag": 1,
+        "start_time": 239.8,
+        "end_time": 240.2
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 240.3,
+        "end_time": 241.0
+    },
+    {
+        "word": "should",
+        "speaker_tag": 1,
+        "start_time": 241.0,
+        "end_time": 241.3
+    },
+    {
+        "word": "not",
+        "speaker_tag": 1,
+        "start_time": 241.3,
+        "end_time": 241.5
+    },
+    {
+        "word": "legalize",
+        "speaker_tag": 1,
+        "start_time": 241.5,
+        "end_time": 242.1
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 242.1,
+        "end_time": 242.5
+    },
+    {
+        "word": "we",
+        "speaker_tag": 1,
+        "start_time": 240.3,
+        "end_time": 241.0
+    },
+    {
+        "word": "should",
+        "speaker_tag": 1,
+        "start_time": 241.0,
+        "end_time": 241.3
+    },
+    {
+        "word": "not",
+        "speaker_tag": 1,
+        "start_time": 241.3,
+        "end_time": 241.5
+    },
+    {
+        "word": "legalize",
+        "speaker_tag": 1,
+        "start_time": 241.5,
+        "end_time": 242.1
+    },
+    {
+        "word": "prostitution",
+        "speaker_tag": 1,
+        "start_time": 242.1,
+        "end_time": 242.5
+    }
+]
