@@ -1,23 +1,27 @@
 # google-ai-hackathon
 
-To run the backend on the local machine, you need a GCP credential key in JSON format and locate like below.
-```
-gcp-credential/key.json
-```
-Q. How to generate JSON Key of GCP service account?
+## How to run the backend?
+1. Get you GCP Service Account following this [link](https://cloud.google.com/iam/docs/keys-create-delete)
+    
+    You need 3 roles to run the backend.
+    - Cloud Speech Administrator	
+    - Storage Admin	
+    - Vertex AI Administrator
 
+    and Move ***key.json*** to ***./google_api/credential***
 
-Following the guidline
-https://cloud.google.com/iam/docs/keys-create-delete
+2. Build Docker image
+    ```
+    docker build -t minute-taker-ai-backend .
+    ```
+3. Run Docker container
+    ```
+    docker run -p 5000:5000 minute-taker-ai-backend
+    ```
+4. Check Backend is running
+    ```
+    http://localhost:5000/
 
-
-Q. Which roles are needed for the GCP service account?
-- Cloud Speech Administrator	
-- Storage Admin	
-- Vertex AI Administrator	
-
-
-"""
-export FLASK_APP=backend.py
-flask run --host=0.0.0.0 
-"""
+    Response :
+    {"Root_message":"Backend is running (since 20xx-xx-xx xx:xx:xx)"}
+    ```

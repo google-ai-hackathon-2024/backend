@@ -1,6 +1,7 @@
 import string
 import random
 import os
+from pathlib import Path
 
 from utilities import recording as rec
 from utilities import transcript as trs
@@ -32,13 +33,14 @@ def id_generator(size=6):
     return ''.join(random.choice(chars) for _ in range(size))
 
 def delete_cache(cache_path):
+
     try:
         for filename in os.listdir(cache_path):
             file_path = os.path.join(cache_path, filename)
             if os.path.isfile(file_path):
                 os.remove(file_path)
-                print(f"Deleted {filename}")
-        print("All files deleted successfully!")
+        os.rmdir(cache_path)
+        print(f"All files in {cache_path} and the folder itself are deleted successfully!")
     except Exception as e:
         print(f"An error occurred: {e}")
 
@@ -46,7 +48,7 @@ def generate_audio_sample_url(client, conv_id, audio_lst, sr):
     audio_url_lst = []
     for i, aud in enumerate(audio_lst):
         filename = f"{i+1}_sample_audio"
-        audio_file_path = rec.save_audio(os.path.join('cache',filename), aud, sr)
+        audio_file_path = rec.save_audio(os.path.join('cache',conv_id,filename), aud, sr)
         blob_name = f"{conv_id}/{filename}.wav"
         pub_audio_url = storage.upload_to_gcs(
             client=client,
@@ -57,7 +59,7 @@ def generate_audio_sample_url(client, conv_id, audio_lst, sr):
         audio_url_lst.append(pub_audio_url)
     return audio_url_lst
 
-def upload_audio_to_gcpbucket(client, jdata:dict):
+def upload_audio_to_gcpbucket(client, audio_file):
     """
     Upload a conversation audio file into the GCP bucket for the future use.
 
@@ -71,11 +73,17 @@ def upload_audio_to_gcpbucket(client, jdata:dict):
         - audioURL <string> : Audio file public URL in GCP bucket
     """
 
-    filepath = jdata['filepath']
+    conv_id = id_generator()
+    print(f"Generated conversation ID : {conv_id}")
+    cache_path = Path(f"./cache/{conv_id}")
+    cache_path.mkdir(parents=True, exist_ok=True)
+
+    print(f"Save the audio file into the cache folder : {cache_path}")
+    filepath = f"{cache_path}/audio.wav"
+    audio_file.save(filepath)
 
     filepath = rec.check_and_convert_audio(filepath)
 
-    conv_id = id_generator()
     blob_name = f"{conv_id}/audio.wav"
     pub_audio_url = storage.upload_to_gcs(
         client=client,
@@ -117,7 +125,7 @@ def set_config_for_transcript(storage_client, speech_client, jdata:dict):
         )
     transcript = speech.generate_transcript_with_tag(word_infos)
 
-    transcript_json_path = os.path.join('cache', 'raw_transcript.json')
+    transcript_json_path = os.path.join('cache', conv_id, 'raw_transcript.json')
     trs.save_result(transcript_json_path, transcript)
     
     blob_name = f"{conv_id}/raw_transcript.json"
@@ -191,7 +199,7 @@ def generate_result(client, jdata:dict):
         )
 
     # Save the result into the GCP bucket
-    transcript_txt_path = os.path.join('cache', 'transcript.txt')
+    transcript_txt_path = os.path.join('cache', conv_id, 'transcript.txt')
     trs.save_result(transcript_txt_path, transcript)
     blob_name = f"{conv_id}/transcript.txt"
     pub_transcript_url = storage.upload_to_gcs(
@@ -201,7 +209,7 @@ def generate_result(client, jdata:dict):
         blob_name=blob_name
         )
 
-    summary_txt_path = os.path.join('cache', 'summary.txt')
+    summary_txt_path = os.path.join('cache', conv_id, 'summary.txt')
     trs.save_result(summary_txt_path, conv_summary)
     blob_name = f"{conv_id}/summary.txt"
     pub_summary_url = storage.upload_to_gcs(
@@ -212,7 +220,7 @@ def generate_result(client, jdata:dict):
         )
 
     # Delete Cache files...
-    delete_cache('./cache')
+    delete_cache(f'./cache/{conv_id}')
 
     return {"convID":conv_id, "summaryURL":pub_summary_url, "transcriptURL":pub_transcript_url}
 

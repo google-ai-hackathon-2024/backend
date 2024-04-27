@@ -1,6 +1,9 @@
 from flask import Flask, request
+from flask_cors import CORS
 
 from pathlib import Path
+import datetime
+
 import tasks
 
 # ----------------------------------
@@ -14,6 +17,7 @@ app = Flask(__name__)
 CREDENTIALS_FILE = "./google_api/credential/key.json"
 PROJECT_ID = "southern-field-419613"
 LOCATION = "us-central1" 
+START_TIMESTAMP = str(datetime.datetime.now())
 
 class Variables():
     def __init__(self):
@@ -31,6 +35,10 @@ directory_path.mkdir(parents=True, exist_ok=True)
 # ----------------------------------
 # Define REST entries
 # ----------------------------------
+@app.get("/")
+def read_root():
+    return {"Root_message": f"Backend is running (since {START_TIMESTAMP})"}
+
 @app.route('/audio', methods=['POST']) 
 def upload_audio_to_gcpbucket():
     """
@@ -43,8 +51,16 @@ def upload_audio_to_gcpbucket():
         - convID <string> : Unique ID for the conversation
         - audioURL <string> : Audio file public URL in GCP bucket
     """
-    jdata = request.get_json()
-    return tasks.upload_audio_to_gcpbucket(var.storage_client, jdata)
+    
+    # conv_id = tasks.id_generator()
+    # audio_cache_path = Path(f"./cache/{conv_id}")
+    # audio_cache_path.mkdir(parents=True, exist_ok=True)
+
+    audio_file = request.files["audio"]
+    # audio_path = f"{audio_cache_path}/audio.wav"
+    # audio_file.save(audio_path)
+
+    return tasks.upload_audio_to_gcpbucket(var.storage_client, audio_file)
 
 @app.route('/config', methods=['POST']) 
 def set_config_for_transcript():
@@ -138,3 +154,4 @@ def get_result():
 # ----------------------------------
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port = 5000, debug = True)
+    CORS(app)
