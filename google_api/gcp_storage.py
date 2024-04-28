@@ -4,6 +4,8 @@ import io
 
 from google.cloud import storage
 
+SAMPLE_RATE = 48000
+
 def init_storage_client(credential_path:str):
     client = storage.Client.from_service_account_json(credential_path)
     return client
@@ -42,4 +44,4 @@ def get_audio_from_gcs(client:storage.Client, bucket_name, blob_name):
     bucket = client.get_bucket(bucket_name)
     blob = bucket.blob(blob_name)
     
-    return librosa.load(io.BytesIO(blob.download_as_string(client=None)), sr=16000)
+    return librosa.load(io.BytesIO(blob.download_as_string(client=None)), sr=SAMPLE_RATE)

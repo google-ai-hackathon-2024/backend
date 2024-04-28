@@ -1,15 +1,13 @@
 from google.cloud import speech
 
+SAMPLE_RATE = 48000
+
 def init_speech_client(credential_path:str):
     client = speech.SpeechClient.from_service_account_file(credential_path)
     return client
 
 def speech_to_text(client:speech.SpeechClient ,gcs_uri: str, speakers=(2,2)):
     """Asynchronously transcribes the audio file specified by the gcs_uri.
-
-    Args: ...
-
-    Returns: ...
     """
     # ---------------------------------------------------------------------
     audio = speech.RecognitionAudio(uri=gcs_uri)
@@ -27,8 +25,8 @@ def speech_to_text(client:speech.SpeechClient ,gcs_uri: str, speakers=(2,2)):
         max_speaker_count=speakers[1],
     )
     config = speech.RecognitionConfig(
-        encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16, # For .wav with 16000 sampling rate
-        sample_rate_hertz=16000, 
+        encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16, # For .wav
+        sample_rate_hertz=SAMPLE_RATE, 
         language_code="en-US",
         diarization_config=diarization_config,
         enable_word_time_offsets=True
