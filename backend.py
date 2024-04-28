@@ -10,6 +10,7 @@ import tasks
 # Create Flask
 # ----------------------------------
 app = Flask(__name__)
+CORS(app)
 
 # ----------------------------------
 # Initialize GCP Clients
@@ -45,21 +46,14 @@ def upload_audio_to_gcpbucket():
     Upload a conversation audio file into the GCP bucket for the future use.
 
     Request : 
-        - filepath <string> : The file path of conversation audio 
+        - audio_file <form-data:File>
 
     Response :
-        - convID <string> : Unique ID for the conversation
-        - audioURL <string> : Audio file public URL in GCP bucket
+        - convID <str> : Unique ID for the conversation
+        - audioURL <str> : Audio file public URL in GCP bucket
     """
     
-    # conv_id = tasks.id_generator()
-    # audio_cache_path = Path(f"./cache/{conv_id}")
-    # audio_cache_path.mkdir(parents=True, exist_ok=True)
-
     audio_file = request.files["audio"]
-    # audio_path = f"{audio_cache_path}/audio.wav"
-    # audio_file.save(audio_path)
-
     return tasks.upload_audio_to_gcpbucket(var.storage_client, audio_file)
 
 @app.route('/config', methods=['POST']) 
@@ -68,11 +62,11 @@ def set_config_for_transcript():
     Get basic configuration and generate transcript.
 
     Request : 
-        - convID <string> : Unique ID for the conversation
+        - convID <str> : Unique ID for the conversation
         - speakerCnt <int> : The number of speakers in conversation
     
     Response :
-        - convid <string> : Unique ID for the conversation
+        - convid <str> : Unique ID for the conversation
         - audioURLs <list:string> : Public GCP bucket link for sample audio chunks by each speaker
     """
     jdata = request.get_json()
@@ -85,16 +79,16 @@ def generate_result():
     Finally, return the summary link and chatbot link
 
     Request : 
-        - convID <string> : Unique ID for the conversation
+        - convID <str> : Unique ID for the conversation
         - convType <int> : Conversation type
                             0. biz-meeting 1. debating 2. interview 3. monologue
-        - convTitle <string> : Conversation title set by user
+        - convTitle <str> : Conversation title set by user
         - speakerName <list:string> : The name of speaker
     
     Response :
-        - convID <string> : Unique ID for the conversation
-        - transcriptURL <string> : Public GCP bucket link for the summary
-        - summaryURL <string> : Public GCP bucket link for the summarization
+        - convID <str> : Unique ID for the conversation
+        - transcriptURL <str> : Public GCP bucket link for the summary
+        - summaryURL <str> : Public GCP bucket link for the summarization
     """
     jdata = request.get_json()
     return tasks.generate_result(var.storage_client, jdata)
@@ -102,13 +96,13 @@ def generate_result():
 @app.route('/chatbot', methods=['GET'])
 def init_chatbot():
     """
-    Initialize and run AI chatbot. This chatbot can retrieve info. of conversation with convID.
+    Initialize and run AI chatbot by convID. This chatbot can retrieve info. of conversation by using convID.
 
     Request : 
-        - convID <string> : Unique ID for the conversation
+        - convID <str> : Unique ID for the conversation
     
     Response :
-
+        - convID <str> : Unique ID for the conversation
     """
     conv_id = request.args.get('convID')
     var.chatbot_runnable[conv_id] = tasks.init_chatbot(conv_id)
@@ -120,10 +114,10 @@ def answer_from_chatbot():
     Initialize and run AI chatbot. This chatbot can retrieve info. of conversation with convID.
 
     Request : 
-        - input <string> : User input
+        - input <str> : User input
     
     Response :
-        - answer <string> : Answer from chatbot
+        - answer <str> : Answer from chatbot
     """
     conv_id = request.args.get('convID')
     jdata = request.get_json()
@@ -135,17 +129,43 @@ def get_result():
     Get conversation ID and return the result page
 
     Request : 
-        - convID <string> : Unique ID for the conversation
+        - convID <str> : Unique ID for the conversation
     
     Response :
-        - convID <string> : Unique ID for the conversation
-        - transcriptURL <string> : Public GCP bucket link for the summary
-        - summaryURL <string> : Public GCP bucket link for the summarization
-        - chatbotURL <string> : Chatbot activation link
+        - convID <str> : Unique ID for the conversation
+        - transcriptURL <str> : Public GCP bucket link for the summary
+        - summaryURL <str> : Public GCP bucket link for the summarization
     """
     conv_id = request.args.get('convID')
     return tasks.get_result(conv_id)
 
+@app.route('/summary', methods=['GET']) 
+def get_summary():
+    """
+    Get summary contents
+
+    Request : 
+        - convID <str> : Unique ID for the conversation
+    
+    Response :
+        - summary <str> : Contents of summary
+    """
+    conv_id = request.args.get('convID')
+    return tasks.get_result_summary(conv_id)
+
+@app.route('/transcript', methods=['GET']) 
+def get_transcript():
+    """
+    Get transcript contents
+
+    Request : 
+        - convID <str> : Unique ID for the conversation
+    
+    Response :
+        - transcript <str> : Contents of transcript
+    """
+    conv_id = request.args.get('convID')
+    return tasks.get_result_transcript(conv_id)
 
 
 
