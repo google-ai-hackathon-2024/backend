@@ -2,6 +2,7 @@ import string
 import random
 import os
 from pathlib import Path
+import requests
 
 from utilities import recording as rec
 from utilities import transcript as trs
@@ -47,7 +48,7 @@ def delete_cache(cache_path):
 def generate_audio_sample_url(client, conv_id, audio_lst, sr):
     audio_url_lst = []
     for i, aud in enumerate(audio_lst):
-        filename = f"{i+1}_sample_audio"
+        filename = f"{i+1}_sample_audio.wav"
         audio_file_path = rec.save_audio(os.path.join('cache',conv_id,filename), aud, sr)
         blob_name = f"{conv_id}/{filename}.wav"
         pub_audio_url = storage.upload_to_gcs(
@@ -64,13 +65,13 @@ def upload_audio_to_gcpbucket(client, audio_file):
     Upload a conversation audio file into the GCP bucket for the future use.
 
     input : 
-        dict
-        - filepath <string> : The file path of conversation audio 
+        - client <Client> : Google Storage Client instance
+        - audio_file <form-data:File> : Audio file data
 
     output :
         dict
-        - convID <string> : Unique ID for the conversation
-        - audioURL <string> : Audio file public URL in GCP bucket
+        - convID <str> : Unique ID for the conversation
+        - audioURL <str> : Audio file public URL in GCP bucket
     """
 
     conv_id = id_generator()
@@ -99,14 +100,16 @@ def set_config_for_transcript(storage_client, speech_client, jdata:dict):
     Get basic configuration and generate transcript.
 
     input :
-        dict 
-        - convID <string> : Unique ID for the conversation
-        - speakerCnt <int> : The number of speakers in conversation
-    
+        - storage_client <Client> : Google Storage Client instance
+        - speech_client <Client> : Google Speech Client instance
+        - jdata <dict> 
+            - convID <str> : Unique ID for the conversation
+            - speakerCnt <int> : The number of speakers in conversation
+        
     output :
         dict
-        - convid <string> : Unique ID for the conversation
-        - audioURLs <list:string> : Public GCP bucket link for sample audio chunks by each speaker
+        - convid <str> : Unique ID for the conversation
+        - audioURLs <list:str> : Public GCP bucket link for sample audio chunks by each speaker
     """
 
     conv_id = jdata['convID']
@@ -158,21 +161,22 @@ def set_config_for_transcript(storage_client, speech_client, jdata:dict):
 def generate_result(client, jdata:dict):
     """
     Get information of speaker name, conversation type, and title to generate the final transcript.
-    Finally, return the summary link and chatbot link
+    Finally, return the summary and transcript link.
 
     input : 
-        dict
-        - convID <string> : Unique ID for the conversation
-        - convType <int> : Conversation type
-                            0. biz-meeting 1. debating 2. interview 3. monologue
-        - convTitle <string> : Conversation title set by user
-        - speakerName <list:string> : The name of speaker
-    
+        - storage_client <Client> : Google Storage Client instance
+        - jdata <dict>
+            - convID <str> : Unique ID for the conversation
+            - convType <int> : Conversation type
+                                0. biz-meeting 1. debating 2. interview 3. monologue
+            - convTitle <str> : Conversation title set by user
+            - speakerName <list:str> : The name of speaker
+        
     output :
         dict
-        - convid <string> : Unique ID for the conversation
-        - transcriptURL <string> : Public GCP bucket link for the summary
-        - summaryURL <string> : Public GCP bucket link for the transcript
+        - convid <str> : Unique ID for the conversation
+        - transcriptURL <str> : Public GCP bucket link for the summary
+        - summaryURL <str> : Public GCP bucket link for the transcript
     """
 
     # Get parameters
@@ -224,12 +228,12 @@ def generate_result(client, jdata:dict):
 
     return {"convID":conv_id, "summaryURL":pub_summary_url, "transcriptURL":pub_transcript_url}
 
-def init_chatbot(conv_id:string):
+def init_chatbot(conv_id:str):
     """
     Initialize and run AI chatbot. This chatbot can retrieve info. of conversation with convID.
 
     input : 
-        - convID <string> : Unique ID for the conversation
+        - convID <str> : Unique ID for the conversation
     
     output :
         - retrieval_chain <Runnable>
@@ -242,18 +246,34 @@ def answer_from_chatbot(chatbot_runnable, jdata:dict):
     Initialize and run AI chatbot. This chatbot can retrieve info. of conversation with convID.
 
     Request : 
-        - input <string> : User input
+        chatbot_runnable <Runnable> : Runnable object of the corresponding convID
+        jdata <dict>
+            - input <str> : User input
     
     Response :
-        - answer <string> : Answer from chatbot
+        - answer <str> : Answer from chatbot
     """
     user_input = jdata['input']
     answer = chatbot.get_chatbot_answer(chatbot_runnable, user_input)
     return {'answer':answer}
 
-def get_result(conv_id:string):
+def get_result(conv_id:str):
 
     pub_transcript_url = f"https://storage.googleapis.com/{BUCKET_NAME}/{conv_id}/transcript.txt"
     pub_summary_url = f"https://storage.googleapis.com/{BUCKET_NAME}/{conv_id}/summary.txt"
     
     return {"convID":conv_id, "summaryURL":pub_summary_url, "transcriptURL":pub_transcript_url}
+
+def get_result_summary(conv_id:str):
+
+    pub_summary_url = f"https://storage.googleapis.com/{BUCKET_NAME}/{conv_id}/summary.txt"
+    response = requests.get(pub_summary_url).text
+    
+    return response
+
+def get_result_transcript(conv_id:str):
+
+    pub_transcript_url = f"https://storage.googleapis.com/{BUCKET_NAME}/{conv_id}/transcript.txt"
+    response = requests.get(pub_transcript_url).text
+    
+    return response
