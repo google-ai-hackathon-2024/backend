@@ -1,12 +1,4 @@
 # 🎙️MinuteTaker AI🚀
-## Inspiration
-We get and share a lot of information through conversations in our daily lives. Not only that, but conversations are also the most effective way to understand yourself and the other person. But conversations are more easily forgotten in our minds than we think. Sometimes they are interpreted or distorted in their own way. Recording is the most basic way to record a conversation, but how much time do we have to spend listening to Recording again.
-
-Through 🎙️*MinuteTaker AI*🚀, we want to create an effective and smart solution that can record and understand all kinds of conversations.
-
-## What it does
-🎙️*MinuteTaker AI*🚀 is a combination of Recording and Generative AI technology. Going beyond the Recording function, which was simply recording voices, MinuteTakser AI converts Speech into Text and extracts and summarizes the key parts. Furthermore, the user will get a chatbot tailored to this given conversation. By chatting interactively, the user can get not only information of the conversation but also surrounding knowledge to help them understanding easily and much better.
-
 
 ## How to run Backend?
 1. Setup GCP Service Account with 'key.json' file and move ***key.json*** to ***./google_api/credential***.
