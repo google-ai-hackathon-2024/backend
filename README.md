@@ -1,7 +1,9 @@
 # 🎙️MinuteTaker AI🚀
 
 ## How to run Backend?
-1. Setup GCP Service Account with 'key.json' file and move ***key.json*** to ***./google_api/credential***.
+1. Clone the repository.
+
+2. Setup GCP Service Account with 'key.json' file and move ***key.json*** to ***./google_api/credential***.
     ```
     ├──google_api
     │   └──credential
@@ -26,20 +28,20 @@
 
         ***NOTE:*** Before running the backend, Be sure to create a bucket at Google Storage and named it ***'talking-dataset'***
 
-2. Run Docker on your local machine. 
+3. Run Docker on your local machine. 
 
     If you don't have Docker in your local machine, download and install via the official website [link](https://docs.docker.com/get-docker/).
 
-3. Build Docker image
+4. Build Docker image
     ```
     docker build -t minute-taker-ai-backend .
     ```
 
-4. Run Docker container
+5. Run Docker container
     ```
     docker run -p 5000:5000 minute-taker-ai-backend
     ```
-5. Check Backend is running
+6. Check Backend is running
     ```
     http://localhost:5000/
 
@@ -62,5 +64,5 @@ Python 3.8 with Flask framework.
 - [**librosa**](https://librosa.org/doc/main/index.html) and [**ffmpeg**](): These libraries are used to varify audio files into the same form and create audio samples by trimming.
 
 
-## Contact
+## Contact Details
 Hyeongkyun Kim (hyeongkyun.kim@uzh.ch or kreative24hk@gmail.com)
