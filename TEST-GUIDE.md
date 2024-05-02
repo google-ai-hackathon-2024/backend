@@ -1,5 +1,7 @@
 ## How to test 🎙️MinuteTaker AI🚀
 
+See the product [slide](https://github.com/google-ai-hackathon-2024/backend/blob/5c7b1127791ca0535941a6aec4c737344af81c97/minutetaker-ai.pdf)!
+
 1. **Ensure the Frontend and the Backend are running.**
 
     If you follow the instructions in each README, you can check whether it is running properly or not.
