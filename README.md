@@ -10,7 +10,11 @@ Through 🎙️*MinuteTaker AI*🚀, we want to create an effective and smart so
 
 ## How to run Backend?
 1. Setup GCP Service Account with 'key.json' file and move ***key.json*** to ***./google_api/credential***.
-
+    ```
+    ├──google_api
+    │   └──credential
+    │       └──key.json
+    ```
     Q. how to get 'key.json'?
 
     - ***Option A.*** Using Google Cloud Platform set by our team.
