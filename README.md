@@ -34,15 +34,20 @@ Through 🎙️*MinuteTaker AI*🚀, we want to create an effective and smart so
 
         ***NOTE:*** Before running the backend, Be sure to create a bucket at Google Storage and named it ***'talking-dataset'***
 
-2. Build Docker image
+2. Run Docker on your local machine. 
+
+    If you don't have Docker in your local machine, download and install via the official website [link](https://docs.docker.com/get-docker/).
+
+3. Build Docker image
     ```
     docker build -t minute-taker-ai-backend .
     ```
-3. Run Docker container
+
+4. Run Docker container
     ```
     docker run -p 5000:5000 minute-taker-ai-backend
     ```
-4. Check Backend is running
+5. Check Backend is running
     ```
     http://localhost:5000/
 
