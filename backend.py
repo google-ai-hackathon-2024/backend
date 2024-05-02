@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, jsonify
 from flask_cors import CORS
 
 from pathlib import Path
@@ -167,6 +167,14 @@ def get_transcript():
     conv_id = request.args.get('convID')
     return tasks.get_result_transcript(conv_id)
 
+# Custom error handler for all exceptions
+@app.errorhandler(Exception)
+def handle_exceptions(e):
+    # Log the exception (you can use a logging library here)
+    app.logger.error(getattr(e, 'description', str(e)))
+
+    # Return an appropriate response (e.g., JSON with an error message)
+    return jsonify(error="An internal server error occurred"), getattr(e, 'code', 500)
 
 
 # ----------------------------------

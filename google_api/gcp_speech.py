@@ -34,7 +34,7 @@ def speech_to_text(client:speech.SpeechClient ,gcs_uri: str, speakers=(2,2)):
     operation = client.long_running_recognize(config=config, audio=audio)
 
     # ---------------------------------------------------------------------
-    response = operation.result(timeout=300)
+    response = operation.result(timeout=600)
 
     # ---------------------------------------------------------------------
     # Each result is for a consecutive portion of the audio. Iterate through
@@ -49,7 +49,10 @@ def speech_to_text(client:speech.SpeechClient ,gcs_uri: str, speakers=(2,2)):
     # However, the words list within an alternative includes all the words
     # from all the results thus far. Thus, to get all the words with speaker
     # tags, you only have to take the words list from the last result:
-    result = response.results[-1]
+    try:
+        result = response.results[-1]
+    except Exception as e:
+        print("No retrun from speech-to-text API!")
     infos = result.alternatives[0].words
     # print(result.alternatives[0])
     word_infos = []

@@ -32,7 +32,7 @@ def generate_summary(template:Template, transcript:str, conv_title:str) -> str:
     print("Waiting the summarization result!")
     print(f"Title by User: {conv_title}")
     generation_model = GenerativeModel("gemini-1.0-pro")
-    generation_config = GenerationConfig(temperature=0.2, max_output_tokens=256, top_k=40, top_p=0.8)
+    generation_config = GenerationConfig(temperature=0.2, max_output_tokens=2048, top_k=40, top_p=0.8)
     response = generation_model.generate_content(contents=prompt, generation_config=generation_config)
     print("Completed!")
     print()

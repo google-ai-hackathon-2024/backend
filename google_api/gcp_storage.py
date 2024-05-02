@@ -24,7 +24,7 @@ def upload_to_gcs(client:storage.Client, bucket_name, source_file_path, blob_nam
     print(f"Initialize Blob storage instance..")
     blob = bucket.blob(blob_name)
     print(f"Upload file into the Blob")
-    blob.upload_from_filename(source_file_path)
+    blob.upload_from_filename(source_file_path, timeout=600)
 
     gsutil_url = f"gs://{bucket_name}/{blob_name}"
     print(f"File {source_file_path} uploaded to {gsutil_url}")
