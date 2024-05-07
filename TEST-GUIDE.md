@@ -1,6 +1,6 @@
 ## How to test 🎙️MinuteTaker AI🚀
 
-See the product [slide](https://github.com/google-ai-hackathon-2024/backend/blob/5c7b1127791ca0535941a6aec4c737344af81c97/minutetaker-ai.pdf)!
+See the product details ([slide](https://github.com/google-ai-hackathon-2024/backend/blob/5c7b1127791ca0535941a6aec4c737344af81c97/minutetaker-ai.pdf))!
 
 1. **Ensure the Frontend and the Backend are running.**
 
@@ -29,6 +29,13 @@ See the product [slide](https://github.com/google-ai-hackathon-2024/backend/blob
 3. **Set information about the conversation.**
 
     You can find the corresponding information in the sample audio file above.
+
+    - The number of speakers
+    - Short description to help you set the conversation type, title, and speaker name.
+
+    ***NOTE:*** This step will take few minutes to make a transcribtion for the audio file.
+    
+    ref. 5min audio: ~2min to be processed
 
 4. **Explore the result page.**
 
